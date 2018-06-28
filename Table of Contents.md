@@ -1,7 +1,7 @@
 # MDes
 Public logs for my masters thesis project
 
-[Cards](cards.md)
+[Cards](Cards.md)
 
 
 # June 27 / 2018 pt. 2
