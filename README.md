@@ -1,7 +1,22 @@
 # MDes
 Public logs for my masters thesis project
 
-# June 27 /2018
+# June 27 / 2018 pt. 2
+Verbal summary of the workshop 1 slides here: https://docs.google.com/presentation/d/1Q6lJXk8_cQ8v7g1IMGIROAgRdq0I-ELCDcA-Q6p5Cro/edit?usp=sharing
+
+- I first led the session with a quick introduction of myself and my research interests, which generally revolve around using games and playful interventions for wellness/positive social impact.
+- We then did some short introductions around the room before I talked about Reflective Game Design, and why this approach to making can be interesting for making educational experiences that help us to design, deconstruct, and make sense of play experiences. I shared the four tenants of Reflective Game Design, which are questions over answers, clarity over stealth, disruption over comfort, and reflection over immersion.
+- I then gave an example of a Reflective Game called “Cook Your Way” (which has an online public development log here if anyone is curious to read more: https://github.com/enricllagostera/rgd/blob/master/logs.md).
+- I shared how research-creation lets us understand a design from the beginning to the end of a project, and also why participatory design is interesting because if contrasts with some potentially limiting approaches to design (like "user" centred design).
+- Stress was talked about as being a focus because of its universal, but unique nature; it is something that we all experience, but our interpretations (which are very much related to intersectional / lived experiences) are different. 
+- Design guidelines were given for a social game "helping people cope with stress."
+- Some game development hints were given, like using verbs as rules and thinking about values as design pillars. 
+- We then did a value highlighting exercise, where folks first filled out a sheet with values they had personally wanted for the game, before the groups worked together to create a collective value sheet.
+- These values then helped to direct the next hour of ideation time, where I asked folks to determine a logline, mechanics and rules, and set of pillars for their games.
+- Team A described an active game about taking turns releasing (writing/drawing/singing) stress, in a kind of cross between the creative expression of pictionary and the choices afforded by truth or dare. Players use an object passed around the group (for now, “the pause cow,” named after a plastic cow figurine) as a talking tool, so that others without the object need to pause and pay attention silently to the holder. Values for this game are simplicity, emotional safety, and empathy. Ultimately, the game hopes to act as a positive loop that makes the players feel increasingly comfortable in expressing stress with others. 
+- Team B described “a game where your stress is your individual game board,” where players draw representations of their stress in order to create their own game map. The drawings (through size, color, shape etc.) will be given different “weights” and meanings per coded dice, meaning rules which will perhaps also be aided by storytelling prompts  / accrued tokens. Critically, all players must work together in order to “leave” this stress map. Pillars for this game are cooperative stress management, being “a dash of art therapy’, community, lived experience, commiseration & support, being personal/personalized, stress relief, and disruption.
+
+# June 27 / 2018 pt. 1
 
 Yesterday was the first workshop, huzzah! Things went really rather smoothly and I'm super excited with what was produced. To backtrack and touch on some of my notes from last time, I ended up deciding to not give the groups a direct scaffold, but rather to give some general "design guidelines" to work with. Those involved the prompt, "helping people cope with stress," and making a social game (the latter of which came from my stress research and social coping skills). These went over quite well and people seemed to like the balance of structure with creative freedom.
 
