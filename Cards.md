@@ -1,38 +1,13 @@
-<i>[Back to Table of Contents](TableofContents.md)</i>
+[Back to Table of Contents](TableofContents.md)  
+[About](#About)  
+[Logs](#Logs)
+    [May 10 2018](##May-10-2018)  
 
-[About](##About)  
-[May-10-2018](##May-10-2018)  
-
-## About
+# About
 
 The Reflective Game Design card project is being developped as part of my research assistantship work with Dr. Rilla Khaled, and will be used as part of my Master of Design Research project.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Logs
 
 ## May 10 2018
 <i> This entry is a repost that was first added to a private research group chat </i>
