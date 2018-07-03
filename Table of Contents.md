@@ -1,18 +1,17 @@
 # MDes
-Public logs for my masters thesis project
+This GitHub repo holds the records for my Master of Design thesis project logs.
 
-Quicklinks:
+Table of Contents:
 
-[Cards](Cards.md)
-
-[Workshops](Workshops.md)
-
-![](https://i.creativecommons.org/l/by/4.0/88x31.png)
+[Cards](Cards.md) <i>Writing about my work on the Reflective Game Design card project</i>   
+[Workshops](Workshops.md) <i>Writing about my experience with the participatory Reflective Game Design workshops</i>   
 
 
 ---
   
 <b>This content is to be used with an Attribution 4.0 International (CC BY 4.0) license. </b>
+
+![](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
 <b> You are free to: </b>   
 <b>Share</b> — copy and redistribute the material in any medium or format  
