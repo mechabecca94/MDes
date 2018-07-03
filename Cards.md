@@ -5,8 +5,8 @@
 [1.0 About](#10-about)  
 [2.0 Logs](#20-logs)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.1 May 10 2018](#21-may-10-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.2](#22-may-19-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.3]()  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.2 May 22 2018](#22-may-19-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.3 June 5 2018](#23-june-5-2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.3]()  
 
 
@@ -18,6 +18,14 @@ The Reflective Game Design card project is being developped as part of my resear
 
 
 # 2.0 Logs  
+
+## 2.3 June 5 2018
+
+I have done some more work on the game since Congress, and thanks to me wanting to familiarize myself with the laser cutter a bit more, made a (very rough) version of the game 
+
+![](https://i.imgur.com/4Z87C8w.jpg)  
+
+1st Draft rules: https://docs.google.com/document/d/1M_k58gi3fbedK-_hOEaq7-EsNe8nnDrLN_etJUbzbLY/edit
 
 ## 2.2 May 19 2018
 
