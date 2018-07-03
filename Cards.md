@@ -22,6 +22,7 @@ Excited to get ideas from you folks soon!
 
 ![](https://09238768715394554913.googlegroups.com/attach/10f05a2a34b363/diagram4-01.png?part=0.3&view=1&vt=ANaJVrGfMzaFj2L4WK0WKToKOzz7NSySpxvPqzzV6vmFYSe0Tr6cgu2bT7BQM-u7tbQFVj6ejLGyJhZn-o5FQw-QWbhWaTpXZx26omajhpza1Tt71YSPEDo)  
 
+![](https://09238768715394554913.googlegroups.com/attach/10f05a2a34b363/diagram5-01.png?part=0.1&view=1&vt=ANaJVrHeaNXBGXp34WFpnJtnrYXqqxuw8t0dD72vSiG2WlFMhQR3QMYtmpdJCEqdMEbHtI4b5s5JaMDKveMoAHOoWo9VrtaoCNWWyCNNhhTA5M1ZLkzjtQs)  
 
 ![](https://09238768715394554913.googlegroups.com/attach/10f05a2a34b363/diagram5-01.png?part=0.1&view=1&vt=ANaJVrHXfRfAaoGEYBHQRYs90UkglpgUawvNmv45gAnYlUkj0MLzQVtXhN_dlJ2LLeNkN_JaL0asMzY7_dKtfnCNZWYQwETtQNKRvSmISL57C3Zj8pmYO-c)  
 
