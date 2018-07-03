@@ -1,11 +1,10 @@
 This GitHub repo holds the records for my Master of Design thesis project logs.
+---
 
 # Table of Contents
 
 [Cards](Cards.md) <i>Writing about my work on the Reflective Game Design card project</i>   
 [Workshops](Workshops.md) <i>Writing about my experience with the participatory Reflective Game Design workshops</i>   
-
----
 
 # Copyright Information
 
