@@ -7,7 +7,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[2.1 June 4 2018](#21-june-4-2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.2 June 15 2018](#22-june-15-2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.3 June 27 2018 pt. 1](#23-june-27-2018-pt-1)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.4 June 27 2018 pt. 1](#24-june-27-2018-pt-2)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.4 June 27 2018 pt. 2](#24-june-27-2018-pt-2)  
+
+[Back to Top](#rgd-workshops)
 
 # 1.0 About
 The purpose of this research is to investigate the merits of using a participatory (more than one designer-based) methodology in the making of an original Reflective Game Design; an approach to game making that has the goal to design, deconstruct, and make sense of play experiences. My specific thematic interest is to generate reflection (or the educational reconsideration of some topic) through games around the ways and spaces that stress takes hold in our lives. During a series of three workshops I aim to foster a creative space for storytelling around stress and coping through the co-design and creation of analog (non-digital) game prototypes. Later, I will work to combine this collective information into a digital game prototype. 
@@ -31,11 +33,15 @@ Verbal summary of the workshop 1 slides here: https://docs.google.com/presentati
 - Team A described an active game about taking turns releasing (writing/drawing/singing) stress, in a kind of cross between the creative expression of pictionary and the choices afforded by truth or dare. Players use an object passed around the group (for now, “the pause cow,” named after a plastic cow figurine) as a talking tool, so that others without the object need to pause and pay attention silently to the holder. Values for this game are simplicity, emotional safety, and empathy. Ultimately, the game hopes to act as a positive loop that makes the players feel increasingly comfortable in expressing stress with others. 
 - Team B described “a game where your stress is your individual game board,” where players draw representations of their stress in order to create their own game map. The drawings (through size, color, shape etc.) will be given different “weights” and meanings per coded dice, meaning rules which will perhaps also be aided by storytelling prompts  / accrued tokens. Critically, all players must work together in order to “leave” this stress map. Pillars for this game are cooperative stress management, being “a dash of art therapy’, community, lived experience, commiseration & support, being personal/personalized, stress relief, and disruption.
 
+[Back to Top](#rgd-workshops)
+
 ## 2.3 June 27 2018 pt. 1
 
 Yesterday was the first workshop, huzzah! Things went really rather smoothly and I'm super excited with what was produced. To backtrack and touch on some of my notes from last time, I ended up deciding to not give the groups a direct scaffold, but rather to give some general "design guidelines" to work with. Those involved the prompt, "helping people cope with stress," and making a social game (the latter of which came from my stress research and social coping skills). These went over quite well and people seemed to like the balance of structure with creative freedom.
 
 As for the running of the workshop itself, I found myself occupying a kind of hands off / occasional pop-in role once the more formal presentation element was over with. That is to say, folks were generally good to work on the game ideas themselves, although I would sometimes pop in to a conversation I could hear was struggling in order to suggest some potential directions. At one point I shared a deck of positive stress coping / stress symptom cards with folks to try and solve a roadblock; at another  I redirected folks back to the "stress roadmap" to try and ground the conversation towards some theory. I think because I kept this lighter (participatory!) approach, there was a sense of helping vs. telling (what I didn't want). In the end, two groups of four and three respectively came up with fantastic game ideas that focus on stress coping. I'll write up some more about those ideas once I've finished documenting things, but for now, one observation I want to keep is that gently suggesting some research as roadblock shifter seemed to spur reflective thought.
+
+[Back to Top](#rgd-workshops)
 
 ## 2.2 June 15 2018
 
@@ -48,6 +54,7 @@ Some quick observations:
 - While some of these are things that I think will be determined through the co-designing, I also think that storytelling - personal experiences, and human relationships to others - will be critical elements of our discussions.
 - Several of the participants are fairly experienced in game design, while others are complete begeinners. I think one strategy will be to propose several "prompt" scaffolds... or maybe have the two groups work on an idea? 
 
+[Back to Top](#rgd-workshops)
 
 ## 2.1 June 4 2018
 This is where I am going to be keeping my public facing thesis documentation for my MDes project. I am aiming to use this log as a reflective journal of my progress, covering my thoughts both before and after making creative decisions. For now as I haven't started the game these logs are going to be more speculative, but my hope is that once I start programming I can also employ the GitHub method by Pippin, Jonathan, and Rilla to document my design decisions more closely.
@@ -64,3 +71,5 @@ Currently, I am planning my series of three participatory design workshops (awai
 8. If a friend told you they were feeling stressed, what is something that you would do or say to help them out?	
 9. Does technology in general connect to your relationship with stress, either positively or negatively? If so, please describe:	
 10. Has a videogame ever connected to your relationship with stress, either positively or negatively? If so, how?
+
+[Back to Top](#rgd-workshops)
