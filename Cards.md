@@ -1,9 +1,11 @@
-[Back to Table of Contents](TableofContents.md)  
+[<--Back to Table of Contents](TableofContents.md)  
+
 [About](#About)  
 [Logs](#Logs)  
-&nbsp;&nbsp;[May 10 2018](##May-10-2018)  
-&nbsp;&nbsp;[]()
-    
+&nbsp;&nbsp;&nbsp;&nbsp;[May 10 2018](##May-10-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[]()  
+&nbsp;&nbsp;&nbsp;&nbsp;[]()  
+&nbsp;&nbsp;&nbsp;&nbsp;[]()  
 
 # About
 
