@@ -24,4 +24,4 @@ Excited to get ideas from you folks soon!
 
 ![](https://i.imgur.com/xJ6ECGY.png)
 
-![](https://i.imgur.com/uuohdDp.png)
+![](https://i.imgur.com/d5CsubO.png)
