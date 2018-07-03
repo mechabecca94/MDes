@@ -31,6 +31,8 @@ This excercise, in turn, led me to the idea for a game that embraced more of the
 
 ![](https://i.imgur.com/BPDFXFQ.png)
 
+Next, I will be trying to take the prompts I gave myself during this excercise ("why"? the dichotemies, etc.) and turning them into something a bit more standard/straightforward for others to try. Rilla had the suggestion of separating the kinds of prompts into different categories, i.e., questions that could always be generative vs. narrowing. This I will try before our next research meeting!
+
 [Back to top](#rgd-cards)  
 
 ## 2.3 June 5 2018
