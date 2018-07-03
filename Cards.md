@@ -2,8 +2,8 @@
 
 [1.0 About](#1.0-About)  
 [2.0 Logs](#2.0-Logs)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.1 May 10 2018](#2.1-May-10-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.2](#2.2-May-19-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.1 May 10 2018](#21-may-10-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.2](#22-may-19-2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.3]()  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.3]()  
 
