@@ -1,7 +1,9 @@
-[Back to Table of Contents](TableofContents.md)  
+<td>
+    <tr>[Back to Table of Contents](TableofContents.md)  </tr>
 [About](#About)  
 [Logs](#Logs)
     [May 10 2018](##May-10-2018)  
+    </td>
 
 # About
 
