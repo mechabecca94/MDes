@@ -19,7 +19,7 @@ The Reflective Game Design card project is being developped as part of my resear
 
 # 2.0 Logs  
 
-## 2.4 July 4 2018
+## 2.4 July 3 2018
 
 In the last showing of the RGD cards, folks thought that the rules might be a bit tricky / overly complicated to navigate. Agreeing, I tried to do my own unguided "playthrough" of the cards, both physically and [digitally.](https://mechabecca.itch.io/brainstorming)
 
