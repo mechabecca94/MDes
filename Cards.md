@@ -3,7 +3,7 @@
 [1.0 About](#1.0-About)  
 [2.0 Logs](#2.0-Logs)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.1 May 10 2018](##2.1-May-10-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.2]()  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.2](##2.2-May-19-2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.3]()  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.3]()  
 
@@ -11,15 +11,7 @@
 
 The Reflective Game Design card project is being developped as part of my research assistantship work with Dr. Rilla Khaled, and will be used as part of my Master of Design Research project.
 
-# 2.0 Logs
-
-## 2.1 May 10 2018
-
-![](https://i.imgur.com/uuohdDp.png)  
-
-![](https://i.imgur.com/xJ6ECGY.png)
-
-![](https://i.imgur.com/d5CsubO.png)
+# 2.0 Logs (reverse order)
 
 ## 2.2 May 19 2018
 
@@ -38,3 +30,13 @@ After this, we were able to come up with a modified version of my last prototype
 Since this meeting I switched gears to work on the presentation and haven't had a chance to try and make a ruleset or new card design for this Q>A game. However, I will be aiming to do a better write up / design mockup of this iteration soon.
 
 ![](https://i.imgur.com/70yd67t.jpg)
+
+
+## 2.1 May 10 2018
+
+![](https://i.imgur.com/uuohdDp.png)  
+
+![](https://i.imgur.com/xJ6ECGY.png)
+
+![](https://i.imgur.com/d5CsubO.png)
+
