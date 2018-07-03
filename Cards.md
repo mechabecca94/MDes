@@ -20,7 +20,7 @@ Hello all! I'm passing along the documentation from this and last week's diagram
 
 Excited to get ideas from you folks soon!  
 
-![](https://09238768715394554913.googlegroups.com/attach/10f05a2a34b363/diagram4-01.png?part=0.3&view=1&vt=ANaJVrGu71sSD_Jur-7E56qiN_wI4Qmw7ovj8WBY1-YtKFLllrjyw10z6oabDRr-JaDiboKYnSyWi5RqMnkxVTuyjMrp6cft-6Y_-NwHRVndFee_nGUUo6s)  
+![](https://09238768715394554913.googlegroups.com/attach/10f05a2a34b363/diagram4-01.png?part=0.3&view=1&vt=ANaJVrFkvKZ0SROv79GB9Tmbmur1nNRCE_XWGOlaq811GdXFYqhBF7RoWIiX1iRaavXybQbZBKPHJ9m_IJjSxY6F34frBAlWzwMV30pojudLTuaevHsAI2M)  
 
 ---
 ![](https://09238768715394554913.googlegroups.com/attach/10f05a2a34b363/diagram5-01.png?part=0.1&view=1&vt=ANaJVrHiQwkfmPLtqS9WyBCQ78fqNhoXGL7P4wmuOhe9wfwVJHUaVv4N2jMWSg0shz5934xnj7wqsY0axtdg-9fTfqg90tivqA_wRh5VcMjJZxY9KfnOjQc)  
