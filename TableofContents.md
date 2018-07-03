@@ -1,12 +1,12 @@
 
-# 1. Table of Contents
+# Table of Contents
 
-[1.1 Cards](Cards.md)  
+[Cards](Cards.md)  
 <i>Writing about my work on the Reflective Game Design card project</i>   
-[1.2 Workshops](Workshops.md)  
+[Workshops](Workshops.md)  
 <i>Writing about my experience with the participatory Reflective Game Design workshops</i>   
 
-# 2. Copyright Information
+# Copyright Information
 
 <b>This content is to be used with an Attribution 4.0 International (CC BY 4.0) license. </b>
 
