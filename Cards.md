@@ -21,7 +21,15 @@ The Reflective Game Design card project is being developped as part of my resear
 
 ## 2.4 July 4 2018
 
-post incoming
+In the last showing of the RGD cards, folks thought that the rules might be a bit tricky / overly complicated to navigate. Agreeing, I tried to do my own unguided "playthrough" of the cards, both physically and [digitally.](https://mechabecca.itch.io/brainstorming)
+
+![Imgur](https://i.imgur.com/b6yUnWL.jpg)  
+
+![](https://i.imgur.com/wLgvF42.png)  
+
+This excercise, in turn, led me to the idea for a game that embraced more of these questions then awnsers for my thesis subject of "stress"
+
+![](https://i.imgur.com/BPDFXFQ.png)
 
 [Back to top](#rgd-cards)  
 
