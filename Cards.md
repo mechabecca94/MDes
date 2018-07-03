@@ -2,8 +2,8 @@
 
 [1.0 About](#1.0-About)  
 [2.0 Logs](#2.0-Logs)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.1 May 10 2018](##2.1-May-10-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.2](##2.2-May-19-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.1 May 10 2018](##-2.1-May-10-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.2](##-2.2-May-19-2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.3]()  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.3]()  
 
@@ -11,7 +11,7 @@
 
 The Reflective Game Design card project is being developped as part of my research assistantship work with Dr. Rilla Khaled, and will be used as part of my Master of Design Research project.
 
-# 2.0 Logs (reverse order)
+# 2.0 Logs  
 
 ## 2.2 May 19 2018
 
