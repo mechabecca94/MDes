@@ -1,10 +1,10 @@
 
 # Table of Contents
 
-[Cards](Cards.md)  
-<i>Writing about my work on the Reflective Game Design card project</i>   
-[Workshops](Workshops.md)  
-<i>Writing about my experience with the participatory Reflective Game Design workshops</i>   
+[1. Cards](Cards.md)  
+  <i>Writing about my work on the Reflective Game Design card project</i>   
+[2. Workshops](Workshops.md)  
+  <i>Writing about my experience with the participatory Reflective Game Design workshops</i>   
 
 # Copyright Information
 
