@@ -20,20 +20,20 @@ Hello all! I'm passing along the documentation from this and last week's diagram
 
 Excited to get ideas from you folks soon!  
 
-![](https://09238768715394554913.googlegroups.com/attach/10f05a2a34b363/diagram4-01.png?part=0.3&view=1&vt=ANaJVrGu71sSD_Jur-7E56qiN_wI4Qmw7ovj8WBY1-YtKFLllrjyw10z6oabDRr-JaDiboKYnSyWi5RqMnkxVTuyjMrp6cft-6Y_-NwHRVndFee_nGUUo6s | width=100)  
+![](https://09238768715394554913.googlegroups.com/attach/10f05a2a34b363/diagram4-01.png?part=0.3&view=1&vt=ANaJVrGu71sSD_Jur-7E56qiN_wI4Qmw7ovj8WBY1-YtKFLllrjyw10z6oabDRr-JaDiboKYnSyWi5RqMnkxVTuyjMrp6cft-6Y_-NwHRVndFee_nGUUo6s)  
 
 ---
-![](https://09238768715394554913.googlegroups.com/attach/10f05a2a34b363/diagram5-01.png| width=100)  
+![](https://09238768715394554913.googlegroups.com/attach/10f05a2a34b363/diagram5-01.png?part=0.1&view=1&vt=ANaJVrHiQwkfmPLtqS9WyBCQ78fqNhoXGL7P4wmuOhe9wfwVJHUaVv4N2jMWSg0shz5934xnj7wqsY0axtdg-9fTfqg90tivqA_wRh5VcMjJZxY9KfnOjQc)  
 
 ---
-![](https://09238768715394554913.googlegroups.com/attach/10f05a2a34b363/diagram6-01.png?part=0.2&view=1&vt=ANaJVrGiOeBxGCDAKk4CPoXvd6Q1N_FisZCGtyDJEP-6puE1WwCRHnOUeaurHBxs-Lj6qePM3uy0PR-r40_GFi5C9xOWqbM1OjgCm80CQiLQNNifNpORUqA | width=100)  
+![](https://09238768715394554913.googlegroups.com/attach/10f05a2a34b363/diagram6-01.png?part=0.2&view=1&vt=ANaJVrGiOeBxGCDAKk4CPoXvd6Q1N_FisZCGtyDJEP-6puE1WwCRHnOUeaurHBxs-Lj6qePM3uy0PR-r40_GFi5C9xOWqbM1OjgCm80CQiLQNNifNpORUqA)  
 
 ---
 ![](https://09238768715394554913.googlegroups.com/attach/10f05a2a34b363/diagram1-01.png?part=0.4&view=1&vt=ANaJVrH-mmD0MR1bctZ8Lu2Kk0_OhpwBZ3tya3qytjFbpeR3aAmBqFAApSRuyKZ0yh4auYYrzqDjXfi41ooMZ4hSFiBHc4pmtQ36AuptI_jvk4ntzkY_TkE | width=100)  
 
 ---
-![](https://09238768715394554913.googlegroups.com/attach/10f05a2a34b363/diagram3-01.png?part=0.6&view=1&vt=ANaJVrG77PLeh8_OH_5dp9TPl8shmU9MDp0IyWu6QRZh0JPnL7yw6I958qNh9Jg7xwjjVuKXfLiPFy2sOM-azN5JBtXmUI3Bvnaw2IAdYIkGWxBhuq85Zs8 | width=100)  
+![](https://09238768715394554913.googlegroups.com/attach/10f05a2a34b363/diagram3-01.png?part=0.6&view=1&vt=ANaJVrG77PLeh8_OH_5dp9TPl8shmU9MDp0IyWu6QRZh0JPnL7yw6I958qNh9Jg7xwjjVuKXfLiPFy2sOM-azN5JBtXmUI3Bvnaw2IAdYIkGWxBhuq85Zs8)  
 
 ---
-![](https://09238768715394554913.googlegroups.com/attach/10f05a2a34b363/diagram2-01.png?part=0.5&view=1&vt=ANaJVrFj768m0RtjH6My_qyMKdp24hVu8FN1vhpBdkuNcpBjvFwSd7pPCPdn78k2MqCBrzIDqSbXQM9WlZLm2St4nhDAJq_VKnWX03OYglTP9ncn3qsUe4Y | width=100)  
+![](https://09238768715394554913.googlegroups.com/attach/10f05a2a34b363/diagram2-01.png?part=0.5&view=1&vt=ANaJVrFj768m0RtjH6My_qyMKdp24hVu8FN1vhpBdkuNcpBjvFwSd7pPCPdn78k2MqCBrzIDqSbXQM9WlZLm2St4nhDAJq_VKnWX03OYglTP9ncn3qsUe4Y)  
 
