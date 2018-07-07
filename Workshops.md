@@ -20,6 +20,8 @@ The purpose of this research is to investigate the merits of using a participato
 # 2.0 Logs
 
 ## 2.5 July 6 2018
+[](https://i.imgur.com/eu7vPqy.png)
+
 In review of the presentation from last session:
 
 1. I started the session answering a few copyright questions folks had asked me after the first workshop, clarifying that I will be using an open creative commons licence on any works made. This means that the games will be open for anyone (including participants to use) after they are finished, as long as credit is given. 
@@ -36,7 +38,6 @@ In review of the presentation from last session:
 
 6. Once I've had a chance to review all the documentation, I will send any photos of individual participants to those particular people.
 
-[](https://i.imgur.com/eu7vPqy.png)
 
 [Back to Top](#rgd-workshops)
 
