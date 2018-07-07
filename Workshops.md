@@ -8,6 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[2.2 June 15 2018](#22-june-15-2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.3 June 27 2018 pt. 1](#23-june-27-2018-pt-1)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.4 June 27 2018 pt. 2](#24-june-27-2018-pt-2)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.5 July 6 2018](#25-july-6-2018)  
 
 [Back to Top](#rgd-workshops)
 
@@ -17,6 +18,27 @@ The purpose of this research is to investigate the merits of using a participato
 [Back to Top](#rgd-workshops)
 
 # 2.0 Logs
+
+## 2.5 July 6 2018
+In review of the presentation from last session:
+
+1. I started the session answering a few copyright questions folks had asked me after the first workshop, clarifying that I will be using an open creative commons licence on any works made. This means that the games will be open for anyone (including participants to use) after they are finished, as long as credit is given. 
+
+2. On the note of credits, it was mentioned that if someone wants to have their name associated with these creative works (and not the research - they will stay anonymous for that )I asked them to fill a "credits sheet."
+
+2. We reviewed our photo studies, noting that many people found time (and the associated worries we have with it) stressful. Some other folks made great observations about their physical stress symptoms, and some others still captured examples of positive things they did to cope (like playing games or reading).
+
+3. We briefly revisited our own game rules and values to catch some of our new faces up to speed.
+
+4. I then did a brief review of paper prototyping; specifically, outlining why it is a useful (cheap/fast/straightforward) design method. I likewise mentioned how it can help us think about our game's flow, balance (or imbalance), and other critical play elements.
+
+5. Folks then took the last hour to develop their ideas further, creating a draft ruleset and descriptions that will be used for wrapping up our prototypes next week, where we will also share our final progress between teams.
+
+6. Once I've had a chance to review all the documentation, I will send any photos of individual participants to those particular people.
+
+[](https://i.imgur.com/eu7vPqy.png)
+
+[Back to Top](#rgd-workshops)
 
 ## 2.4 June 27 2018 pt. 2
 Verbal summary of the workshop 1 slides here: https://docs.google.com/presentation/d/1Q6lJXk8_cQ8v7g1IMGIROAgRdq0I-ELCDcA-Q6p5Cro/edit?usp=sharing
