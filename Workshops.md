@@ -35,8 +35,8 @@ Inspired by all the student brainstorming happening at critical hit, I'm going t
 9. A game where you help the kittens who lost their mittens to cope with that loss. 
 10. A game where you make a misfit toy.
 11. A game of miniature un-twister where you massage out the knots in the wooden mannequin's stressed out backs.
-12. A game where one person puts pins in the pincushion and another person pulls them out.
-13.
+12. A game where one person puts pins in the Pincushion of Stress™ and another person pulls them out.
+13. 
 14.
 15.
 16.
