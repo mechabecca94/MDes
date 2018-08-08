@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[2.3 June 27 2018 pt. 1](#23-june-27-2018-pt-1)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.4 June 27 2018 pt. 2](#24-june-27-2018-pt-2)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.5 July 6 2018](#25-july-6-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.5 July 6 2018](#26-august-8-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.6 August 8 2018](#26-august-8-2018)  
 
 [Back to Top](#rgd-workshops)
 
