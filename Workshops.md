@@ -37,8 +37,8 @@ Inspired by all the student brainstorming happening at critical hit, I'm going t
 11. A game of miniature un-twister where you massage out the knots in the wooden mannequin's stressed out backs.
 12. A game where one person puts pins in the Pincushion of Stress™ and another person pulls them out.
 13. A game where closing your eyes in real life stops the gameplay, so you can take a break to reflect if you want.
-14.
-15.
+14. A game about two retired adventurers who are recounting all of the "giant fish" stories they can, but instead of the stories getting bigger and bigger, they get smaller and more sensitive.
+15. A game where a camera takes footage of two people talking about a sensitive issue, and then afterwards both people try to rewind the tape to the most meaningful part for them.
 16.
 17.
 18.
