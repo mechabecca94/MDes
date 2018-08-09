@@ -36,7 +36,7 @@ Inspired by all the student brainstorming happening at critical hit, I'm going t
 10. A game where you make a misfit toy.
 11. A game of miniature un-twister where you massage out the knots in the wooden mannequin's stressed out backs.
 12. A game where one person puts pins in the Pincushion of Stress™ and another person pulls them out.
-13. 
+13. A game where closing your eyes in real life stops the gameplay, so you can take a break to reflect if you want.
 14.
 15.
 16.
