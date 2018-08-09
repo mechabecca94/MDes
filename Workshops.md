@@ -43,7 +43,7 @@ Inspired by all the student brainstorming happening at critical hit, I'm going t
 17. A version of the 5 w's where players have two buttons, either forward or stop, to move through the possible "why's" of their stress in a map or roguelike fashion.
 18. A game where you write an academic article about what is stressing you out.
 19. A game where you edit a scientific article about stress to be what you are actually stressed out about, like mad libs.
-20.
+20. A game that takes place on the front of a fridge, where you use magnets and notepads to write reminders and positve notes to yourself.
 21.
 22.
 23.
