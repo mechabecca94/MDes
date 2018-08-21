@@ -22,7 +22,7 @@ The purpose of this research is to investigate the merits of using a participato
 # 2.0 Logs
 
 ## 2.7 August 8 2018 pt. 2
-Inspired by all the student brainstorming happening at critical hit, I'm going to try and come up with <s>100</s><s>50</s>20 game ideas by the end of this week. Some are likely to be only loosely described. However, I am aiming to commonly keep them be about <b>reflection on stress and coping</b>.
+Inspired by all the student brainstorming happening at critical hit, I'm going to try and come up with <s>100</s> <s>50</s> 20 game ideas by the end of this week. Some are likely to be only loosely described. However, I am aiming to commonly keep them be about <b>reflection on stress and coping</b>.
 
 1. A gift giving game where players give "gifts" (empty boxes) to each other with prompts inside that ask each other what they can really give the other person.
 2. A safety blanket making game where people sew in items, patches, or other items into blanket pouches to make a useable and "real-life" gamebed.
