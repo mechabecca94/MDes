@@ -6,8 +6,8 @@
 [1.0 About](#10-about)  
 [2.0 Logs](#20-logs)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.3 October 3 2018](#23-october-3-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.2 August 8 2018 pt. 2](#23-august-8-2018-pt2)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.1 August 8 2018 pt. 1](#21-august-8-2018-pt1)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.2 August 8 2018 pt. 2](#23-august-8-2018-pt-2)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.1 August 8 2018 pt. 1](#21-august-8-2018-pt-1)  
 
 [Back to Top](#prototyping)
 
