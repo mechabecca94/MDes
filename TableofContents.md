@@ -4,7 +4,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[1.1 Cards](Cards.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Writing about my work on the Reflective Game Design card project</i>   
 &nbsp;&nbsp;&nbsp;&nbsp;[1.2 Workshops](Workshops.md)  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Writing about my experience with the participatory Reflective Game Design workshops</i>   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Writing about my experience with the participatory Reflective Game Design workshops</i>   
+&nbsp;&nbsp;&nbsp;&nbsp;[1.3 Prototyping](Prototyping.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>A page to document my thesis prototyping</i>   
 
 # 2.0 Copyright Information
 
