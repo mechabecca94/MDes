@@ -14,6 +14,6 @@ The purpose of this research is to investigate the merits of using a participato
 
 [Back to Top](#prototyping)
 
-#2.1 October 3 2018
+# 2.1 October 3 2018
 
 [Back to Top](#prototyping)
