@@ -17,16 +17,26 @@ This page is intended to document my third phase research, prototyping and desig
 [Back to Top](#prototyping)
 
 ## 2.3 October 5 2018
-Lately I have been doing a lot of [paper based idea generation and prototyping](https://imgur.com/a/XgsZRgr), rather than jumping into a game engine and starting to fiddle with things. Likewise, I've created a working game design document that is still being edited but is trying to convert my game design goals to playable mechanics. 
+Lately I have been doing a lot of [paper based idea generation and prototyping](https://imgur.com/a/XgsZRgr), rather than jumping into a game engine and starting to fiddle with things directly. Likewise, I've created a working game design document that is still being edited but is trying to convert my game design goals to playable mechanics. 
+
+![](https://i.imgur.com/sOZiUsv.png?1)
 
 ![](https://i.imgur.com/vagFjEM.jpg)
 
 ![](https://i.imgur.com/fG5H51R.jpg)
-This last idea is probobly the one I am thinking about the most. Wanting to keep my participant's values for this project, I've tried to create a combination
 
-Rilla in our last meeting did bring up a good point about some of my (other) ideas, which was a question about what separated some of these projects being a "game" from a "playful experience". 
+As you can see, I've played with a lot of different concepts about getting people to reconsider through reflection their perceptions of stress, from alternate tea pot controllers to unusual "lost mitten" story perspectives. 
 
-Finally, one thing that I've been considering as part of this program is how the final work will be displayed in an exhibition / public facing gallery. Although I think it would be great to try and play the game in person, I'm not sure that this will be something which 
+However, this last pictured idea is probably the one I am thinking about the most because it is compatible both with reflective game design and my participant's proposed tenants. It is a game that <b>deconstructs</b> stresses in relation to their factors before players <b>reconstruct</b> them into their lives. During this first phase, players describe their stresses and assign them to some sort of token, likely through writing and/or drawing. These stress token are then "mapped" to a board that has "NUTS" (Novelty, Uncertainty, Threat to the ego, and Sense of control) at its four corners, almost like boats on an ocean of four intermingling seas. The stress tokens are placed in relation to where participants feel they are most weighted, so that when multiple stresses are described, they can be generally visualized in the context of one's life (center of the board) and one's difficulties. For example, in my own demo, I had time drawn as a clock on one token that I placed in between uncertainty and stress of control.
+
+The next (reconstructive) part of gameplay is still unclear, but for one iteration I’m almost thinking of some kind of anti-battleship where rather than have players shoot each other in an unseen map, they try to find one another's stress points and help them with coping and commiseration. Another modification of a "reconstruction" process which I tried in the photo is to have coping skill or positive affirmation tokens act as "bridges" between the stress points and one's life, with the goal being to move all of one's stresses into the center for a holistic life-stress integration.
+
+In terms of medium, I am really being drawn to something physical, that affords for players to be able to draw and write on the play space (much like what group b did in their design). In my personal journey with stress and anxiety management I find that one of the most assured ways to help me focus is through the drawing and making of art. I’ve looked a bit into conductive paint as a potential way of connecting tokens or coping skills, but it certainly has its challenges (messy, only comes in black, etc.) It’s not to say that I don’t ever want to include screens, but I think for the purposes of a December playtest it is definitely going to be more productive to get an analog game down first.
+
+Rilla in our last meeting did bring up a good point about some of my ideas, which was a question about what separated them from being a "game" vs a "playful experience". I definitely don't want to be gamifying anything for the sake of gamification only, so it's going to be important to make sure that my name design is a <i>reflective</i> game design.
+
+Finally, one thing that I've been considering as part of this program is how the final work will be displayed in an exhibition / public facing gallery. Although I think it would be great to try and play the game in person, I'm not sure that this will be something which I can do given the display will be up for at least a week on its own. It could be cool to schedule evening play sessions on certain days, but for now I'm going to emphasize the project and its participatory for through video and photo documentation.
+
 
 [Back to Top](#prototyping)
 
