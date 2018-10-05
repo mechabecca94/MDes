@@ -1,8 +1,7 @@
- # Rebecca Goodine 
- Reflective Game Design 
+ # Rebecca Goodine  | Work on Reflective Game Design 
 --- 
 
-# 1.0 Table of Contents
+# 1.0 Main Contents
 
 &nbsp;&nbsp;&nbsp;&nbsp;[1.1 Cards](Cards.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Writing about my work on the Reflective Game Design card project</i>   
