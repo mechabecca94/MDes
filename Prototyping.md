@@ -12,7 +12,7 @@
 [Back to Top](#prototyping)
 
 # 1.0 About
-This page is intended to document my third phase research, prototyping and designing the game which was influenced by the workshop pahse of this project.
+This page is intended to document my third phase research, prototyping and designing the game which was directed by the participatory workshop phase of this project.
 
 [Back to Top](#prototyping)
 
