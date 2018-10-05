@@ -1,5 +1,4 @@
-# Rebecca Goodine
-# Reflective Game Design
+| Rebecca Goodine - Reflective Game Design |
 
 # 1.0 Table of Contents
 
