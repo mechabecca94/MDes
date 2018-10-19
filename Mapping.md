@@ -13,7 +13,7 @@
 
 # 1.0 About
 
-The Reflective Game Design card project is being developped as part of my research assistantship work with Dr. Rilla Khaled, and will be used as part of my Master of Design Research project.
+The Reflective Game Design mapping project is being developped as part of my research assistantship work with Dr. Rilla Khaled.
 
 [Back to top](#rgd-mapping)  
 
