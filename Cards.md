@@ -1,4 +1,4 @@
-# RGD Cards
+# RGD Mapping
 
 [<--Back to Table of Contents](TableofContents.md)  
 
@@ -7,17 +7,28 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[2.1 May 10 2018](#21-may-10-2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.2 May 22 2018](#22-may-19-2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.3 June 5 2018](#23-june-5-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.3 July 3 2018](#24-july-3-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.4 July 3 2018](#24-july-3-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.5 Oct 19 2018](#25-oct-19-2018)  
 
 
 # 1.0 About
 
 The Reflective Game Design card project is being developped as part of my research assistantship work with Dr. Rilla Khaled, and will be used as part of my Master of Design Research project.
 
-[Back to top](#rgd-cards)  
+[Back to top](#rgd-mapping)  
 
 
 # 2.0 Logs  
+
+## 2.5 Oct 19 2018
+
+Today and yesterday while working to refamiliarize myself with this cards/ mapping project, I decided to look a bit deeper at 
+what else is out there for mapping type softwares. I ended up encountering the idea of "issue based information systems" (courtesy of Rittel and his wicked problems), as well as a more general "problem structuring methods." I think that these concepts could be pretty important for making a backbone to our own mapping project, and it was quite striking the similarities that had been emergent between my first card based attempt at mapping a sense making space and the one that was established by Rittel. 
+
+As well, I've also made a design <a href="https://docs.google.com/document/d/1eWyeBUYF3YND7JaOFPt-CEMhwCl0UU1ghsr1PaMtlmY/edit#">document</a> to consolodate this research a bit better. For now, what seems most interesting to me inderesting for this project is that we could offer a tacticle or physical means of engaging with this problem space that also translates to the digital (which seems to be what currently is out there).
+
+[Back to top](#rgd-mapping)  
+
 
 ## 2.4 July 3 2018
 
@@ -33,7 +44,7 @@ This excercise, in turn, led me to the idea for a game that embraced more of the
 
 Next, I will be trying to take the prompts I gave myself during this excercise ("why"? the dichotemies, etc.) and turning them into something a bit more standard/straightforward for others to try. Rilla had the suggestion of separating the kinds of prompts into different categories, i.e., questions that could always be generative vs. narrowing. This I will try before our next research meeting!
 
-[Back to top](#rgd-cards)  
+[Back to top](#rgd-mapping)  
 
 ## 2.3 June 5 2018
 
@@ -43,7 +54,7 @@ I have done some more work on the game since Congress, and thanks to me wanting 
 
 1st Draft rules: https://docs.google.com/document/d/1M_k58gi3fbedK-_hOEaq7-EsNe8nnDrLN_etJUbzbLY/edit
 
-[Back to top](#rgd-cards)  
+[Back to top](#rgd-mapping)  
 
 ## 2.2 May 19 2018
 
@@ -63,7 +74,7 @@ Since this meeting I switched gears to work on the presentation and haven't had 
 
 ![](https://i.imgur.com/70yd67t.jpg)
 
-[Back to top](#rgd-cards)  
+[Back to top](#rgd-mapping)  
 
 ## 2.1 May 10 2018
 
@@ -73,5 +84,5 @@ Since this meeting I switched gears to work on the presentation and haven't had 
 
 ![](https://i.imgur.com/d5CsubO.png)
 
-[Back to top](#rgd-cards)  
+[Back to top](#rgd-mapping)  
 
