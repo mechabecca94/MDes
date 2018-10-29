@@ -27,7 +27,7 @@ The Reflective Game Design mapping project is being developped as part of my res
 This week I’ve been doing a lot of research about problem mapping methods and sense making. One tool that has come up and I think is particularly relevant for the two key tasks we want to do - study reflective debrief, and help developers to design reflective experiences - is the research practice of Dialogue Mapping. Dialogue mapping uses a notation system (IBIS) that consists of questions, pros, cons, and ideas to give “a container large enough and rich enough to hold the multithreaded conversations” that happen in a “wicked” design project (Conklin, 2006, xi). As opposed to some other systems of mapping, there is a directionality to the information (arrows going right to left, always pointing back to the main question) and a primary rootedness in questions as opposed to solutions. 
 
 ![](https://pictureitsolved.com/wp-content/uploads/2013/03/DMElementsStructure.png)
-<i>image from https://pictureitsolved.com/resources/practices/dialogue-mapping/</i>
+<i>Image from https://pictureitsolved.com/resources/practices/dialogue-mapping/</i>
 
 Dialogue mapping can become intimidating with all of its branches, but it does help to create a more logical depiction of a question scenario. For example, like I was trying to do way back with the reflective 2D graphics, IBIS and Dialogue Mapping try to use relations to make sense of the branching areas of concern that come with complex problems: “the more novel the problem, the more the problem-solving process involves learning about the problem domain. (p.12).” 
 As well, mapping as a group activity helps to create shared understanding and commitment to a decision by laying out all the foreseeable options (even if some are imperfect or still question raising) at play (p.42). 
@@ -51,8 +51,11 @@ The other five types of questions are:
 
 Given that all of this would be a lot of information to throw at a reflective game designer (with Conklin also suggesting it isn’t explicitly needed to break down question types in a session), I will be working in the next week to create an abbreviated kind of question bank that applies this research when relevant to Rilla’s reflective work. 
 
-Finally, it is still proving tricky to make the tool to be as detailed as we need without being too complex to play. Tiles or cards could maybe help the game be accessible, but that limits what we can do in terms of information recording; a stamp or pin based system could let someone write on a page, but then it becomes difficult to “limit” the game. One idea I haven’t tried yet is to maybe limit the number of question turns vs. the way of recording general information, kind of similar to a different problem solving tool called the “5 Why’s.”
+Finally, it is still proving tricky to make the tool to be as detailed as we need without being too complex to play. Tiles or cards could maybe help the game be accessible, but that limits what we can do in terms of information recording; a stamp or pin based system could let someone write on a page, but then it becomes difficult to “limit” the game's sprawl. One idea I haven’t tried yet is to maybe recommend a limited number of question turns vs. the way of recording general information, kind of similar to a different problem solving tool called the “5 Why’s.”
 
+![](https://www.mindtools.com/media/Diagrams/5Whys_simple_problem_v2.png)
+<i>Image from https://www.mindtools.com/pages/article/newTMC_5W.htm</i>
+  
 <b>Next steps</b>
 
 - Have a proper question bank drafted;
