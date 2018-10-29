@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[2.3 June 5 2018](#23-june-5-2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.4 July 3 2018](#24-july-3-2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.5 Oct 19 2018](#25-oct-19-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.6 Oct 19 2018](#26-oct-28-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.6 Oct 28 2018](#26-oct-28-2018)  
 
 # 1.0 About
 
