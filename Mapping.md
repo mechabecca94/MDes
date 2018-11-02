@@ -22,22 +22,50 @@ The Reflective Game Design mapping project is being developped as part of my res
 # 2.0 Logs  
 
 ## 2.7 Nov 2 2018
+<b>Research</b>
 This week I've been looking per Rilla's suggestion into creativity. Most of the literature I looked at was interested in the psychological causes of creativity and ways to quantitatively describe it. However, one method called the ["Six Thinking Hats"](https://www.mindtools.com/pages/article/newTED_07.htm) technique proved useful for thinking about question addressing though different lenses. 
 
-Members of a team are asked to adopt one six colored hats, with each color representing a different way of thinking that the person needs to adopt (even if this mode of analysis is outside their usual comfort zone). For example, if I was participating on a project I was worried about, the "yellow" hat would ask me to also try and see some positives of the situation. This makes the method a bit unlike the IBIS system, with more room for emotion intended to be in the hats tool itself vs. a complete focus on logic in IBIS. 
+Members of a team are asked to adopt one of six colored hats, with each color representing a different way of thinking that the person needs to adopt (even if this mode of analysis is outside their usual comfort zone). For example, if I was participating on a project I was worried about, the "yellow" hat would ask me to also try and see some positives of the situation. This makes the method a bit unlike the IBIS system, with more room for emotion intended to be in the hats tool itself vs. a complete focus on logic in IBIS. 
 
+<b>Prototyping</b>
 As for my prototyping, I started by using the seven question types to come up with a series of questions that related to games and reflective games in general. These groups of questions were then assigned icons. Each kind of question got its own icon except for deontic and instrumental thinking, which share a gear icon. Unlike “regular” problem solving we are more interested in asking provocative questions, so I wanted to consolidate the “clear cut” ways of addressing a problem a bit more. 
 
 ![](https://i.imgur.com/vOpOeMD.jpg?1)
+![](https://i.imgur.com/WLoZuEt.jpg?4)
 
-The following is my first play through of a system that involves first writing down my game idea, before asking a series of questions that return me to it for a reflective “rewrite;” I will break down the steps after the photo in a cleaner recreation. 
+The above is my first play through of a system that involves first writing down my game idea, before asking a series of questions that return me to the original prompt for a reflective reconsideration. I will break down the steps I took in a tidied up recreation below.
 
 <b>Prototype rules</b>
 
 1.	First I have my materials: 5 categories of question cards, paper clips, a marker, and the mapping board.
 ![](https://i.imgur.com/Z2b1V2y.jpg)
 
+2. I fold the board along the dashed lines
+![](https://i.imgur.com/9LZexze.jpg)
 
+3. I start by writing my game idea or description in the box with a "1"
+![](https://i.imgur.com/P1k5bq3.jpg)
+
+4. I then fold the paper from the top down so that when unfolded, the "1" will be the last thing revealed, and I leave the bottom "2" square showing.
+![](https://i.imgur.com/RQNODeZ.jpg)
+![](https://i.imgur.com/hSymCem.jpg?1)
+
+5. I then use my dice to pick a question category; a normal dice could work too, but I just made a quick one on a wooden block
+![](https://i.imgur.com/DVObkw5.jpg?1)
+
+6. I respond to this question in the "2" block, pinning the question to the side
+![](https://i.imgur.com/yotdEVD.jpg?1)
+
+7. I continue to roll the dice and answering questions one unfold at a time until I get to the question below my original idea
+![](https://i.imgur.com/DMIhIGz.jpg?1)
+
+8. When I unfold this last spot, I reframe my original idea in light of the answered questions.
+![https://i.imgur.com/sTT9eLY.jpg]
+
+<b>Notes</b>
+I'd like to try and see how other rulesets could apply to these same or similar materials; maybe you cut out your responses from the map, maybe you have someone else fill out the other side of the map, etc. 
+
+[Back to top](#rgd-mapping)  
 
 ## 2.6 Oct 28 2018
 
