@@ -10,6 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[2.4 July 3 2018](#24-july-3-2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.5 Oct 19 2018](#25-oct-19-2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.6 Oct 28 2018](#26-oct-28-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.7 Nov 1 2018](#27-nov-1-2018)  
 
 # 1.0 About
 
@@ -19,6 +20,24 @@ The Reflective Game Design mapping project is being developped as part of my res
 
 
 # 2.0 Logs  
+
+## 2.7 Nov 2 2018
+This week I've been looking per Rilla's suggestion into creativity. Most of the literature I looked at was interested in the psychological causes of creativity and ways to quantitatively describe it. However, one method called the ["Six Thinking Hats"](https://www.mindtools.com/pages/article/newTED_07.htm) technique proved useful for thinking about question addressing though different lenses. 
+
+Members of a team are asked to adopt one six colored hats, with each color representing a different way of thinking that the person needs to adopt (even if this mode of analysis is outside their usual comfort zone). For example, if I was participating on a project I was worried about, the "yellow" hat would ask me to also try and see some positives of the situation. This makes the method a bit unlike the IBIS system, with more room for emotion intended to be in the hats tool itself vs. a complete focus on logic in IBIS. 
+
+As for my prototyping, I started by using the seven question types to come up with a series of questions that related to games and reflective games in general. These groups of questions were then assigned icons. Each kind of question got its own icon except for deontic and instrumental thinking, which share a gear icon. Unlike “regular” problem solving we are more interested in asking provocative questions, so I wanted to consolidate the “clear cut” ways of addressing a problem a bit more. 
+
+![](https://i.imgur.com/vOpOeMD.jpg?1)
+
+The following is my first play through of a system that involves first writing down my game idea, before asking a series of questions that return me to it for a reflective “rewrite;” I will break down the steps after the photo in a cleaner recreation. 
+
+<b>Prototype rules</b>
+
+1.	First I have my materials: 5 categories of question cards, paper clips, a marker, and the mapping board.
+![](https://i.imgur.com/Z2b1V2y.jpg)
+
+
 
 ## 2.6 Oct 28 2018
 
