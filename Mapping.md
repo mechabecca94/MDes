@@ -37,34 +37,40 @@ The above is my first play through of a system that involves first writing down 
 
 <b>Prototype rules</b>  
 
-1.	First I have my materials: 5 categories of question cards, paper clips, a marker, and the mapping board.
+1.	First I have my materials: 5 categories of question cards, paper clips, a marker, and the mapping board.  
+
 ![](https://i.imgur.com/Z2b1V2y.jpg)
 
-2. I fold the board along the dashed lines
+2. I fold the board along the dashed lines  
+
 ![](https://i.imgur.com/9LZexze.jpg)
 
-3. I start by writing my game idea or description in the box with a "1"
+3. I start by writing my game idea or description in the box with a "1"  
+
 ![](https://i.imgur.com/P1k5bq3.jpg)
 
-4. I then fold the paper from the top down so that when unfolded, the "1" will be the last thing revealed, and I leave the bottom "2" square showing.
+4. I then fold the paper from the top down so that when unfolded, the "1" will be the last thing revealed, and I leave the bottom "2" square showing.  
+
 ![](https://i.imgur.com/RQNODeZ.jpg)
 ![](https://i.imgur.com/hSymCem.jpg?1)
 
-5. I then use my dice to pick a question category; a normal dice could work too, but I just made a quick one on a wooden block
+5. I then use my dice to pick a question category; a normal dice could work too, but I just made a quick one on a wooden block  
+
 ![](https://i.imgur.com/DVObkw5.jpg?1)
 
-6. I respond to this question in the "2" block, pinning the question to the side. I continue to roll the dice and answering questions one unfold at a time until I get to the question below my original idea
+6. I respond to this question in the "2" block, pinning the question to the side. I continue to roll the dice and answering questions one unfold at a time until I get to the question below my original idea  
 
 ![](https://i.imgur.com/yotdEVD.jpg?1)
 ![](https://i.imgur.com/DMIhIGz.jpg?1)
 
-8. When I unfold this last spot, I reframe my original idea in light of the answered questions.
+8. When I unfold this last spot, I reframe my original idea in light of the answered questions.  
+
 ![](https://i.imgur.com/sTT9eLY.jpg)
 
-So, in this test I went from writing "a game about trees fighting to save the planet" to "using the (fictional) story of trees in the Hambach forest and befriended activists as an allegory for broader climate change (social concerns)."
+So, in this test I went from writing "a game about trees fighting to save the planet" to "using the (fictional) story of trees in the Hambach forest and befriended activists as an allegory for broader climate change (social concerns)."  
 
 <b>Notes</b>  
-I'd like to try and see how other rulesets could apply to these same or similar materials; maybe you cut out your responses from the map, maybe you have someone else fill out the other side of the map, etc. As well, I think a big next step will be continuing to develop a bank of reflective questions.
+I'd like to try and see how other rulesets could apply to these same or similar materials; maybe you cut out your responses from the map, maybe you have someone else fill out the other side of the map, etc. As well, I think a big next step will be continuing to develop a bank of reflective questions.  
 
 [Back to top](#rgd-mapping)  
 
