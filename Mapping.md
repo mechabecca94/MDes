@@ -53,14 +53,13 @@ The above is my first play through of a system that involves first writing down 
 5. I then use my dice to pick a question category; a normal dice could work too, but I just made a quick one on a wooden block
 ![](https://i.imgur.com/DVObkw5.jpg?1)
 
-6. I respond to this question in the "2" block, pinning the question to the side
-![](https://i.imgur.com/yotdEVD.jpg?1)
+6. I respond to this question in the "2" block, pinning the question to the side. I continue to roll the dice and answering questions one unfold at a time until I get to the question below my original idea
 
-7. I continue to roll the dice and answering questions one unfold at a time until I get to the question below my original idea
+![](https://i.imgur.com/yotdEVD.jpg?1)
 ![](https://i.imgur.com/DMIhIGz.jpg?1)
 
 8. When I unfold this last spot, I reframe my original idea in light of the answered questions.
-![https://i.imgur.com/sTT9eLY.jpg]
+![](https://i.imgur.com/sTT9eLY.jpg)
 
 <b>Notes</b>  
 I'd like to try and see how other rulesets could apply to these same or similar materials; maybe you cut out your responses from the map, maybe you have someone else fill out the other side of the map, etc. 
