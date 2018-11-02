@@ -33,7 +33,7 @@ As for my prototyping, I started by using the seven question types to come up wi
 ![](https://i.imgur.com/vOpOeMD.jpg?1)
 ![](https://i.imgur.com/WLoZuEt.jpg?4)
 
-The above is my first play through of a system that involves first writing down my game idea, before asking a series of questions that return me to the original prompt for a reflective reconsideration. I will break down the steps I took in a tidied up recreation below.
+The above is my first play through of a system that involves first writing down my game idea to be questioned for reflective reconsideration. I will break down the steps I took in a tidied up recreation below.
 
 <b>Prototype rules</b>  
 
@@ -61,8 +61,10 @@ The above is my first play through of a system that involves first writing down 
 8. When I unfold this last spot, I reframe my original idea in light of the answered questions.
 ![](https://i.imgur.com/sTT9eLY.jpg)
 
+So, in this test I went from writing "a game about trees fighting to save the planet" to "using the (fictional) story of trees in the Hambach forest and befriended activists as an allegory for broader climate change (social concerns)."
+
 <b>Notes</b>  
-I'd like to try and see how other rulesets could apply to these same or similar materials; maybe you cut out your responses from the map, maybe you have someone else fill out the other side of the map, etc. 
+I'd like to try and see how other rulesets could apply to these same or similar materials; maybe you cut out your responses from the map, maybe you have someone else fill out the other side of the map, etc. As well, I think a big next step will be continuing to develop a bank of reflective questions.
 
 [Back to top](#rgd-mapping)  
 
