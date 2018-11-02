@@ -22,12 +22,12 @@ The Reflective Game Design mapping project is being developped as part of my res
 # 2.0 Logs  
 
 ## 2.7 Nov 2 2018
-<b>Research</b>
+<b>Research</b>  
 This week I've been looking per Rilla's suggestion into creativity. Most of the literature I looked at was interested in the psychological causes of creativity and ways to quantitatively describe it. However, one method called the ["Six Thinking Hats"](https://www.mindtools.com/pages/article/newTED_07.htm) technique proved useful for thinking about question addressing though different lenses. 
 
 Members of a team are asked to adopt one of six colored hats, with each color representing a different way of thinking that the person needs to adopt (even if this mode of analysis is outside their usual comfort zone). For example, if I was participating on a project I was worried about, the "yellow" hat would ask me to also try and see some positives of the situation. This makes the method a bit unlike the IBIS system, with more room for emotion intended to be in the hats tool itself vs. a complete focus on logic in IBIS. 
 
-<b>Prototyping</b>
+<b>Prototyping</b>  
 As for my prototyping, I started by using the seven question types to come up with a series of questions that related to games and reflective games in general. These groups of questions were then assigned icons. Each kind of question got its own icon except for deontic and instrumental thinking, which share a gear icon. Unlike “regular” problem solving we are more interested in asking provocative questions, so I wanted to consolidate the “clear cut” ways of addressing a problem a bit more. 
 
 ![](https://i.imgur.com/vOpOeMD.jpg?1)
@@ -35,7 +35,7 @@ As for my prototyping, I started by using the seven question types to come up wi
 
 The above is my first play through of a system that involves first writing down my game idea, before asking a series of questions that return me to the original prompt for a reflective reconsideration. I will break down the steps I took in a tidied up recreation below.
 
-<b>Prototype rules</b>
+<b>Prototype rules</b>  
 
 1.	First I have my materials: 5 categories of question cards, paper clips, a marker, and the mapping board.
 ![](https://i.imgur.com/Z2b1V2y.jpg)
@@ -62,7 +62,7 @@ The above is my first play through of a system that involves first writing down 
 8. When I unfold this last spot, I reframe my original idea in light of the answered questions.
 ![https://i.imgur.com/sTT9eLY.jpg]
 
-<b>Notes</b>
+<b>Notes</b>  
 I'd like to try and see how other rulesets could apply to these same or similar materials; maybe you cut out your responses from the map, maybe you have someone else fill out the other side of the map, etc. 
 
 [Back to top](#rgd-mapping)  
