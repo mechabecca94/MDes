@@ -19,18 +19,37 @@ This page is intended to document my third phase research, prototyping and desig
 [Back to Top](#prototyping)
 
 ## 2.4 November 4 2018
-Quite a few developments have happened lately, and I think I've moved into a direction that is generally the one I will want to be playtest through a combination of reading and physical prototyping. 
+Quite a few developments have happened on the project lately, and I think I've finally started to move into a general gameplay loop that is one I will want to be playtesting.  
 
-First, in terms of literature and writing, I have been assembling a preliminary amount of references based around key themes that I (re) brainstormed as being around my project. While I haven't had the chance to view the other MDes student thesis yet and how they structure their ideas, I think that getting clear what I mean by my core ideas and associated concepts will go a long way in contextualizing the project.
+<b>Theory</b>
+First, in terms of literature and reading, I have been assembling a preliminary group of references based around key themes that I (re) brainstormed as relating to my project. 
 
-For protyping, my first major effort was to create a fuller fleshed "mapping" game. It relied heavily on the "NUTS" model of stress, using each corner of a modified North-South-East-West map to represent one of stress's attributes. Players then workedd to first map their own stress, before working to find each other where they were at. 
+!()[]
 
-While I really liked the idea of mapping broadly as a means of problem orientaiton and reframing, after conversing with others about this first idea a few design tradeoffs and limitations started to emerge. In talking with Enric about the piece, he wondered why players had their own 
+While I haven't had the chance to view the other MDes student theses yet and how they structure their ideas, I think that getting clear what I mean by my core ideas and associated concepts will go a long way in contextualizing the project.
+
+<b>Prototyping</b>
+For prototyping, my first major effort was to create a fuller fleshed "mapping" game. It relied heavily on the "NUTS" model of stress, using each corner of a modified North-South-East-West map to represent one of stress's attributes per this paradigm. Players then worked to first map their own stress on a miniature  NUTS map, before working to find each other on a bigger map. 
+
+![](https://i.imgur.com/5f0spME.jpg)
+![](https://i.imgur.com/8hycwwh.jpg)
+![](https://i.imgur.com/nR18Qvv.jpg)
+![](https://i.imgur.com/lE0w0YO.jpg)
+![](https://i.imgur.com/8sVmHIH.jpg)
+
+While I really liked the idea of mapping stress broadly as a means of problem orientation and reframing, after conversing with others about this idea a few design tradeoffs and limitations started to emerge. In talking with Enric about the work, he wondered why players had their own maps as opposed to working on a big one - something that I tend to agree with in retrospect. Also, limiting the lens with which to read stress to only the “NUTS” system felt like it was leaving out other options and means of coping.
+
+This led me to create the current working idea, which (in theory) has a complete game loop.
+
+<b>Next steps</b>
+- Figuring out how to group categories of coping;
+- Informally trying the work before playtest 1;
+- Laser cutting the board and other materials;
+- General preparation for the playtest. 
 
 created a draft ruleset and board game as seen below. 
 Though I hadn’t finished figuring out all of the rules, I had tried to incorporate my ideas of mapping stress and having players “ find” each other before returning “home.”
 
-I met with Enric to discuss the ideas and materials, who had some good suggestions about 
 ## 2.3 October 5 2018
 Lately I have been doing a lot of [paper based idea generation and prototyping](https://imgur.com/a/XgsZRgr), rather than jumping into a game engine and starting to fiddle with things directly. Likewise, I've created a working game design document that is still being edited but is trying to convert my game design goals to playable mechanics. 
 
