@@ -24,14 +24,14 @@ Quite a few developments have happened on the project lately, and I think I've f
 <b>Theory</b>
 First, in terms of literature and reading, I have been assembling a preliminary group of references based around key themes that I (re) brainstormed as relating to my project. 
 
-!()[]
+![](https://i.imgur.com/undefined.jpg)
 
 While I haven't had the chance to view the other MDes student theses yet and how they structure their ideas, I think that getting clear what I mean by my core ideas and associated concepts will go a long way in contextualizing the project.
 
 <b>Prototyping</b>
 For prototyping, my first major effort was to create a fuller fleshed "mapping" game. It relied heavily on the "NUTS" model of stress, using each corner of a modified North-South-East-West map to represent one of stress's attributes per this paradigm. Players then worked to first map their own stress on a miniature  NUTS map, before working to find each other on a bigger map. 
 
-![](https://i.imgur.com/5f0spME.jpg | width=100)
+![](https://i.imgur.com/5f0spME.jpg)
 ![](https://i.imgur.com/8hycwwh.jpg)
 ![](https://i.imgur.com/nR18Qvv.jpg)
 ![](https://i.imgur.com/lE0w0YO.jpg)
@@ -39,16 +39,53 @@ For prototyping, my first major effort was to create a fuller fleshed "mapping" 
 
 While I really liked the idea of mapping stress broadly as a means of problem orientation and reframing, after conversing with others about this idea a few design tradeoffs and limitations started to emerge. In talking with Enric about the work, he wondered why players had their own maps as opposed to working on a big one - something that I tend to agree with in retrospect. Also, limiting the lens with which to read stress to only the “NUTS” system felt like it was leaving out other options and means of coping.
 
-This led me to create the current working idea, which (in theory) has a complete game loop.
+This led me to create the current working idea, which (in theory) has a complete game loop, as follows...
 
-<b>Next steps</b>
+<b>The game</b>
+![](https://i.imgur.com/ULqeHHM.jpg?1)  
+<i>It involves a gameboard, drawing pieces, prompts, & questions and coping tokens.  
+The goal of the game is to describe one's stress, possible coping mechanisms, and a reframing of the stress with these ideas in mind. To achieve this, players must move from the outside to the inside of the board through both individual and collective action.</i>
+
+1. At the beginning of the game everyone is given one coping token to start. However, they cannot apply it right away; that is because they must always have at least one extra token in hand. Being depleted of our ability to cope will leave us too drained. It will come in use later if people want to switch coping skills.  
+
+2. A prompt card is chosen to go into the centre of the board. If none of the provided prompts are useful, then the group can come up with their own prompt instead.  
+  
+![](https://i.imgur.com/nZakSuo.jpg)  
+
+3. Everyone responds to the prompt individually by drawing on their drawing piece. This is placed in one of the board's "petals," and this is where the player is to start their movement towards the centre of the board.  
+
+![](https://i.imgur.com/TCRmhN0.jpg)  
+
+4. The last person to finish their drawing takes out another coping token from the bag and reads the associated coping color prompt. If this is something they can apply to the stress, then they add the token to their petal's middle bridge and keep the card for later. However, they may (after drawing a token but before reading the card) choose to try their own beginning coping skill out instead. They similarly read a prompt, keeping for later if used, and if not discarding the card to the bottom of the pile. 
+
+![](https://i.imgur.com/4GDZo3O.jpg)  
+![](https://i.imgur.com/VrBzH8R.jpg)  
+
+5. If the skill wasn't useful, they may offer to share the skill, giving the token to another player who finds it helpful. Otherwise, the unused token is kept for later and any cards placed to the bottom of the appropriate pile.
+
+6. This continues around the table until all players are able to get one of each type of coping color.
+
+7. When someone does get one of each coping color, they are able to move their drawing piece into the other side of their petal, flipping it over to the blank side for now. 
+
+![](https://i.imgur.com/UrQktoR.jpg)  
+![](https://i.imgur.com/vHAkuCt.jpg)  
+
+8. Players who have retrieved one of each coping token color continue to help others by drawing coping mechanisms and offering support, until everyone has their drawings moved forward into the other petal half.
+
+9. When everyone is here, gameplay pauses for people to redraw their stress, this time in consideration of the acquired coping skills and gameplay discussions had.
+
+10. When finished, players go around the table placing their reframed drawing face up into the middle of the board, similarly sharing any final thoughts or sentiments before the end of the game. 
+
+![](https://i.imgur.com/WxXsdPg.jpg)  
+
+<b>Next steps</b>  
+- Smoothing out how drawing cards, tokens, and sharing of prompts works;
 - Figuring out how to group categories of coping;
 - Informally trying the work before playtest 1;
 - Laser cutting the board and other materials;
 - General preparation for the playtest. 
 
-created a draft ruleset and board game as seen below. 
-Though I hadn’t finished figuring out all of the rules, I had tried to incorporate my ideas of mapping stress and having players “ find” each other before returning “home.”
+[Back to Top](#prototyping)
 
 ## 2.3 October 5 2018
 Lately I have been doing a lot of [paper based idea generation and prototyping](https://imgur.com/a/XgsZRgr), rather than jumping into a game engine and starting to fiddle with things directly. Likewise, I've created a working game design document that is still being edited but is trying to convert my game design goals to playable mechanics. 
