@@ -26,7 +26,7 @@ Quite a few developments have happened on the project lately, and I think I've f
 
 First, in terms of literature and reading, I have been assembling a preliminary group of references based around key themes that I (re) brainstormed as relating to my project. 
 
-![](https://i.imgur.com/72wXXzs.jpg?1)
+![](https://i.imgur.com/72wXXzs.jpg?2)
 
 While I haven't had the chance to view the other MDes student theses yet and how they structure their ideas, I think that getting clear what I mean by my core ideas and associated concepts will go a long way in contextualizing the project.
 
