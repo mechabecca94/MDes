@@ -5,7 +5,6 @@
 
 [1.0 About](#10-about)  
 [2.0 Logs](#20-logs)  
-
 &nbsp;&nbsp;&nbsp;&nbsp;[2.1 August 8 2018 pt. 1](#21-august-8-2018-pt-1)   
 &nbsp;&nbsp;&nbsp;&nbsp;[2.2 August 8 2018 pt. 2](#22-august-8-2018-pt-2)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.3 October 5 2018](#23-october-5-2018)   
@@ -30,7 +29,7 @@ First, in terms of literature and reading, I have been assembling a preliminary 
 
 While I haven't had the chance to view the other MDes student theses yet and how they structure their ideas, I think that getting clear what I mean by my core ideas and associated concepts will go a long way in contextualizing the project.
 
-<b>Prototyping</b>
+<b>Prototyping</b>  
 For prototyping, my first major effort was to create a fuller fleshed "mapping" game. It relied heavily on the "NUTS" model of stress, using each corner of a modified North-South-East-West map to represent one of stress's attributes per this paradigm. Players then worked to first map their own stress on a miniature  NUTS map, before working to find each other on a bigger map. 
 
 ![](https://i.imgur.com/5f0spME.jpg?1)
@@ -43,8 +42,9 @@ While I really liked the idea of mapping stress broadly as a means of problem or
 
 This led me to create the current working idea, which (in theory) has a complete game loop, as follows...
 
-<b>The game</b>
-![](https://i.imgur.com/ULqeHHM.jpg?1)  
+<b>The game</b>  
+![](https://i.imgur.com/ULqeHHM.jpg?2)  
+
 <i>It involves a gameboard, drawing pieces, prompts, & questions and coping tokens.  
 The goal of the game is to describe one's stress, possible coping mechanisms, and a reframing of the stress with these ideas in mind. To achieve this, players must move from the outside to the inside of the board through both individual and collective action.</i>
 
@@ -56,12 +56,12 @@ The goal of the game is to describe one's stress, possible coping mechanisms, an
 
 3. Everyone responds to the prompt individually by drawing on their drawing piece. This is placed in one of the board's "petals," and this is where the player is to start their movement towards the centre of the board.  
 
-![](https://i.imgur.com/TCRmhN0.jpg)  
+![](https://i.imgur.com/TCRmhN0.jpg?1)  
 
 4. The last person to finish their drawing takes out another coping token from the bag and reads the associated coping color prompt. If this is something they can apply to the stress, then they add the token to their petal's middle bridge and keep the card for later. However, they may (after drawing a token but before reading the card) choose to try their own beginning coping skill out instead. They similarly read a prompt, keeping for later if used, and if not discarding the card to the bottom of the pile. 
 
-![](https://i.imgur.com/4GDZo3O.jpg)  
-![](https://i.imgur.com/VrBzH8R.jpg)  
+![](https://i.imgur.com/4GDZo3O.jpg?1)  
+![](https://i.imgur.com/VrBzH8R.jpg?1)  
 
 5. If the skill wasn't useful, they may offer to share the skill, giving the token to another player who finds it helpful. Otherwise, the unused token is kept for later and any cards placed to the bottom of the appropriate pile.
 
@@ -69,8 +69,8 @@ The goal of the game is to describe one's stress, possible coping mechanisms, an
 
 7. When someone does get one of each coping color, they are able to move their drawing piece into the other side of their petal, flipping it over to the blank side for now. 
 
-![](https://i.imgur.com/UrQktoR.jpg)  
-![](https://i.imgur.com/vHAkuCt.jpg)  
+![](https://i.imgur.com/UrQktoR.jpg?1)  
+![](https://i.imgur.com/vHAkuCt.jpg?1)  
 
 8. Players who have retrieved one of each coping token color continue to help others by drawing coping mechanisms and offering support, until everyone has their drawings moved forward into the other petal half.
 
@@ -78,13 +78,13 @@ The goal of the game is to describe one's stress, possible coping mechanisms, an
 
 10. When finished, players go around the table placing their reframed drawing face up into the middle of the board, similarly sharing any final thoughts or sentiments before the end of the game. 
 
-![](https://i.imgur.com/WxXsdPg.jpg)  
+![](https://i.imgur.com/WxXsdPg.jpg?1)  
 
 <b>Next steps</b>  
 - Smoothing out how drawing cards, tokens, and sharing of prompts works;
 - Figuring out how to group categories of coping;
 - Informally trying the work before playtest 1;
-- Laser cutting the board and other materials;
+- Laser cutting the board and other materials, with a design that better reflects flow of gameplay;
 - General preparation for the playtest. 
 
 [Back to Top](#prototyping)
