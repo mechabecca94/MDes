@@ -22,7 +22,8 @@ This page is intended to document my third phase research, prototyping and desig
 ## 2.4 November 4 2018
 Quite a few developments have happened on the project lately, and I think I've finally started to move into a general gameplay loop that is one I will want to be playtesting.  
 
-<b>Theory</b>
+<b>Theory</b>  
+
 First, in terms of literature and reading, I have been assembling a preliminary group of references based around key themes that I (re) brainstormed as relating to my project. 
 
 ![](https://i.imgur.com/72wXXzs.jpg?1)
@@ -30,6 +31,7 @@ First, in terms of literature and reading, I have been assembling a preliminary 
 While I haven't had the chance to view the other MDes student theses yet and how they structure their ideas, I think that getting clear what I mean by my core ideas and associated concepts will go a long way in contextualizing the project.
 
 <b>Prototyping</b>  
+
 For prototyping, my first major effort was to create a fuller fleshed "mapping" game. It relied heavily on the "NUTS" model of stress, using each corner of a modified North-South-East-West map to represent one of stress's attributes per this paradigm. Players then worked to first map their own stress on a miniature  NUTS map, before working to find each other on a bigger map. 
 
 ![](https://i.imgur.com/5f0spME.jpg?1)
@@ -43,7 +45,8 @@ While I really liked the idea of mapping stress broadly as a means of problem or
 This led me to create the current working idea, which (in theory) has a complete game loop, as follows...
 
 <b>The game</b>  
-![](https://i.imgur.com/ULqeHHM.jpg?2)  
+
+![](https://i.imgur.com/ULqeHHM.jpg?3)  
 
 <i>It involves a gameboard, drawing pieces, prompts, & questions and coping tokens.  
 The goal of the game is to describe one's stress, possible coping mechanisms, and a reframing of the stress with these ideas in mind. To achieve this, players must move from the outside to the inside of the board through both individual and collective action.</i>
