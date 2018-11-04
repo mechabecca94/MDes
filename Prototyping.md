@@ -31,7 +31,7 @@ While I haven't had the chance to view the other MDes student theses yet and how
 <b>Prototyping</b>
 For prototyping, my first major effort was to create a fuller fleshed "mapping" game. It relied heavily on the "NUTS" model of stress, using each corner of a modified North-South-East-West map to represent one of stress's attributes per this paradigm. Players then worked to first map their own stress on a miniature  NUTS map, before working to find each other on a bigger map. 
 
-![](https://i.imgur.com/5f0spME.jpg height="250")
+![](https://i.imgur.com/5f0spME.jpg | width=100)
 ![](https://i.imgur.com/8hycwwh.jpg)
 ![](https://i.imgur.com/nR18Qvv.jpg)
 ![](https://i.imgur.com/lE0w0YO.jpg)
