@@ -18,13 +18,15 @@ This page is intended to document my third phase research, prototyping and desig
 
 [Back to Top](#prototyping)
 
+# 2.0 Logs
+
 ## 2.4 November 4 2018
 Quite a few developments have happened on the project lately, and I think I've finally started to move into a general gameplay loop that is one I will want to be playtesting.  
 
 <b>Theory</b>
 First, in terms of literature and reading, I have been assembling a preliminary group of references based around key themes that I (re) brainstormed as relating to my project. 
 
-![](https://i.imgur.com/undefined.jpg)
+![](https://i.imgur.com/72wXXzs.jpg)
 
 While I haven't had the chance to view the other MDes student theses yet and how they structure their ideas, I think that getting clear what I mean by my core ideas and associated concepts will go a long way in contextualizing the project.
 
