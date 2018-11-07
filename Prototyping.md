@@ -48,8 +48,8 @@ I think I will end up adding another fourth kind of coping card, so that players
 
 | Image        | Category           | Content Example  |
 | :------------- |:-------------:| :-----|
-| Stress prompts || Exclamation mark/swirly/etc.      | Stress prompts | Nouns and adjectives for potentially stressful situations and/or emotions |
-| Coping cards || Eye      | Observations/insights       |   Question about the stress or coping methods to be answered by player |
+| Exclamation mark/swirly/etc.      | Stress prompts | Nouns and adjectives for potentially stressful situations and/or emotions |
+| Eye      | Observations/insights       |   Question about the stress or coping methods to be answered by player |
 | Hand | Resources & support      |    Friends, family, mediator, people at the table |
 | Thought bubble | Thoughts       |    Positive affirmations |
 | Heart | Emotion regulation      |    Deep breathing excercise |
