@@ -47,12 +47,12 @@ Also of note is that PST is in part formed on ideas from Lazarus’s stress copi
 I think I will end up adding another fourth kind of coping card, so that players can choose 3/4  in advancing their stress item forward in a way that makes sense for their problem.
 
 | Image        | Category           | Content Example  |
-| ------------- |:-------------:| -----:|
-| Exclamation mark/swirly/etc.      | Stress prompts | nouns and adjectives for potentially stressful situations and/or emotions* ** |
-| eye      | observations/insights *      |   Question about the stress or coping methods to be answered by player |
-| hand | resources & support      |    Friends, family, mediator, people at the table |
-| thought bubble | thoughts *      |    positive affirmations |
-| heart | emotion regulation      |    deep breathing excercise |
+| :------------- |:-------------:| :-----|
+| Stress prompts || Exclamation mark/swirly/etc.      | Stress prompts | Nouns and adjectives for potentially stressful situations and/or emotions |
+| Coping cards || Eye      | Observations/insights       |   Question about the stress or coping methods to be answered by player |
+| Hand | Resources & support      |    Friends, family, mediator, people at the table |
+| Thought bubble | Thoughts       |    Positive affirmations |
+| Heart | Emotion regulation      |    Deep breathing excercise |
 
 
 
