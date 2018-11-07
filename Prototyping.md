@@ -9,6 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[2.2 August 8 2018 pt. 2](#22-august-8-2018-pt-2)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.3 October 5 2018](#23-october-5-2018)   
 &nbsp;&nbsp;&nbsp;&nbsp;[2.4 November 4 2018](#24-november-4-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.5 November 7 2018](#24-november-7-2018)  
 
 [Back to Top](#prototyping)
 
@@ -18,6 +19,49 @@ This page is intended to document my third phase research, prototyping and desig
 [Back to Top](#prototyping)
 
 # 2.0 Logs
+
+## 2.5 November 7 2018
+
+<b>Theory</b>
+
+During the past week I discovered the idea of Problem-Solving Therapy (PST), “the clinical application of training in constructive problem-solving attitudes and skills” ( D’Zurilla & Nezu, 2007, xiii). While (like with some of my art therapy inspiration to be detailed later) my work won’t replace or be qualified as a proper therapy, the ideas posed by this school of thought do however make a lot of sense to what I am trying to do. That is, the game is facilitating social problem solving and problem orientation in the form of “mapping” to generate through reflection new ideas and perceptions. I’ll definitely be using some of these definitions listed below from D’Zurilla & Nezu (2007) in constructing my own ruleset and question bank. The authors note it is important to distinguish the differences between problems, solutions, effective solutions, and solution implementation in PST interventions, so I’ll want to include these concepts even if summarized into the game’s instructions.
+
+Some key ideas that I think contextualize the game WIP;  
+
+A problem is “a life situation that demands a response for effective functioning, but for which no effective response is immediately available to the person confronted by the situation (p.19).   
+
+Social problem solving is “the self directed cognitive-behavioural process by which a person attempts to identify or discover effective or adaptive solutions for specific problems encountered in everyday living (p.11)” Notably, “social” doesn’t mean a certain kind of problem, just that these are problems encountered in the everyday social and lived environment one finds oneself.  
+
+Part of the problem solving process is “problem orientation,” “a metacognitive process that reflects a person’s general awareness and evaluation of problems in living and his or her own problem solving ability (p.31).” There is a spot in the book devoted to covering the efficacy of interventions that tackle this aspect of problem structuring.  
+
+A “solution” is a situation specific coping response or response pattern that is a product of the problem solving process (p.19)”  
+
+An “effective solution” is changing a problematic situation or one’s own personal reactions to it so that it is no longer perceived as a problem, while at the same time maximizing other positive consequences (benefits) and minimizing negative consequences (cons). Also important, is that an effective solution isn’t the same as an implemented solution;  
+
+“Solution implementation” is  the process of carrying out the solution in the actual problematic situation (p.19).  
+
+Also of note is that PST is in part formed on ideas from Lazarus’s stress coping work, which also formed the backbone of the “N.U.T.S.” model. I am seeing a lot of overlap between critical thinking, creativity, emotion, and stress in a way that is at least for now confirming my directions.  
+
+<b>Prototyping</b>
+
+I think I will end up adding another fourth kind of coping card, so that players can choose 3/4  in advancing their stress item forward in a way that makes sense for their problem.
+
+| Image        | Category           | Content Example  |
+| ------------- |:-------------:| -----:|
+| Exclamation mark/swirly/etc.      | Stress prompts | nouns and adjectives for potentially stressful situations and/or emotions* ** |
+| eye      | observations/insights *      |   Question about the stress or coping methods to be answered by player |
+| hand | resources & support      |    Friends, family, mediator, people at the table |
+| thought bubble | thoughts *      |    positive affirmations |
+| heart | emotion regulation      |    deep breathing excercise |
+
+
+
+* to include content adapted from D’Zurilla & Nezu’s (2007) chapter “problem-solving training manual.” They have various lists on affirming statements, potential sources of stresses, etc that I will be combing through. I’ll also likely be trying to find other citations for these, I know there had been some back in the mindfulness work…  
+
+** Taken from my original survey, and from workshop materials  
+
+[Back to Top](#prototyping)
+
 
 ## 2.4 November 4 2018
 Quite a few developments have happened on the project lately, and I think I've finally started to move into a general gameplay loop that is one I will want to be playtesting.  
