@@ -56,9 +56,11 @@ I think I will end up adding another fourth kind of coping card, so that players
 
 
 
-* to include content adapted from D’Zurilla & Nezu’s (2007) chapter “problem-solving training manual.” They have various lists on affirming statements, potential sources of stresses, etc that I will be combing through. I’ll also likely be trying to find other citations for these, I know there had been some back in the mindfulness work…  
+Next I will be writing proper content, but I think a fair bit will be adapted from D’Zurilla & Nezu’s (2007) chapter “problem-solving training manual.” They have various lists on affirming statements, potential sources of stresses, etc that I will be combing through. I’ll also likely be trying to find other citations for these, as I know there had been some back in the mindfulness work. Also, I will be looking to glean the prompt works from my original survey and the workshop materials.  
 
-** Taken from my original survey, and from workshop materials  
+Finally, I did a few board drafts to try and play with the flower idea. They still need work but I find myself drawn to the one closest to the first attempt for now.
+
+![](https://i.imgur.com/mmtsszb.jpg?1)
 
 [Back to Top](#prototyping)
 
