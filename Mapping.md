@@ -11,6 +11,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[2.5 Oct 19 2018](#25-oct-19-2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.6 Oct 28 2018](#26-oct-28-2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.7 Nov 2 2018](#27-nov-2-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.8 Nov 8 2018](#28-nov-8-2018)  
 
 # 1.0 About
 
@@ -21,7 +22,7 @@ The Reflective Game Design mapping project is being developped as part of my res
 
 # 2.0 Logs  
 
-## 2.8 Nove 8 2018
+## 2.8 Nov 8 2018
 It doesn't look like much yet but a wip twine version of the game...
 Hoping to get the loop done tomorrow
 (Password: Reflect)
