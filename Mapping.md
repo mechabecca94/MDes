@@ -19,7 +19,6 @@ The Reflective Game Design mapping project is being developped as part of my res
 
 [Back to top](#rgd-mapping)  
 
-
 # 2.0 Logs  
 
 ## 2.8 Nov 8 2018
@@ -27,6 +26,8 @@ It doesn't look like much yet but a wip twine version of the game...
 Hoping to get the loop done tomorrow
 (Password: Reflect)
 https://mechabecca.itch.io/reflectwip
+
+[Back to top](#rgd-mapping)  
 
 ## 2.7 Nov 2 2018
 <b>Research</b>  
