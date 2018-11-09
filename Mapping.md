@@ -12,6 +12,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[2.6 Oct 28 2018](#26-oct-28-2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.7 Nov 2 2018](#27-nov-2-2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.8 Nov 8 2018](#28-nov-8-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.9 Nov 9 2018](#29-nov-9-2018)  
 
 # 1.0 About
 
@@ -20,6 +21,14 @@ The Reflective Game Design mapping project is being developped as part of my res
 [Back to top](#rgd-mapping)  
 
 # 2.0 Logs  
+
+## 2.9 Nov 9 2018
+Very micro update - but the same link has now a full game progress loop with a working question and awnser cycle.
+https://mechabecca.itch.io/reflectwip
+
+There are 30 questions (five for each of six categories) and four rounds drafted for now.
+
+[Back to top](#rgd-mapping)  
 
 ## 2.8 Nov 8 2018
 It doesn't look like much yet but a wip twine version of the game...
