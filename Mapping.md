@@ -26,6 +26,8 @@ The Reflective Game Design mapping project is being developped as part of my res
 Very micro update - but the same link has now a full game progress loop with a working question and awnser cycle.
 https://mechabecca.itch.io/reflectwip
 
+![](https://i.imgur.com/s8V8WKJ.png)
+
 There are 30 questions (five for each of six categories) and four rounds drafted for now.
 
 [Back to top](#rgd-mapping)  
