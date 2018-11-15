@@ -9,7 +9,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[2. August 8 2018 pt. 2](#2-august-8-2018-pt-2)  
 &nbsp;&nbsp;&nbsp;&nbsp;[3. October 5 2018](#3-october-5-2018)   
 &nbsp;&nbsp;&nbsp;&nbsp;[4. November 4 2018](#4-november-4-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[5. November 7 2018](#4-november-7-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[5. November 7 2018](#5-november-7-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[6. November 15 2018](#6-november-15-2018)  
 
 [Back to Top](#prototyping)
 
@@ -127,6 +128,8 @@ Another word I can use for my main feeling is ____
 I can release some of these feelings from my body by ____  
 The main feeling I am having is ___  
   
+[Back to Top](#prototyping)  
+
 ## 5. November 7 2018
 
 <b>Theory</b>
