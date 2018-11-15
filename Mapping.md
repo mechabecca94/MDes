@@ -4,16 +4,16 @@
 
 [1.0 About](#10-about)  
 [2.0 Logs](#20-logs)  
-&nbsp;&nbsp;&nbsp;&nbsp;[1. May 10 2018](#1.-may-10-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2. May 22 2018](#2.-may-19-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[3. June 5 2018](#3.-june-5-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[4. July 3 2018](#4.-july-3-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[5. Oct 19 2018](#5.-oct-19-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[6. Oct 28 2018](#6.-oct-28-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[7. Nov 2 2018](#7.-nov-2-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[8. Nov 8 2018](#8.-nov-8-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[9. Nov 9 2018](#9.-nov-9-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[10. Nov 15 2018](#10.-nov-9-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[1. May 10 2018](#1-may-10-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2. May 22 2018](#2-may-19-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[3. June 5 2018](#3-june-5-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[4. July 3 2018](#4-july-3-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[5. Oct 19 2018](#5-oct-19-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[6. Oct 28 2018](#6-oct-28-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[7. Nov 2 2018](#7-nov-2-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[8. Nov 8 2018](#8-nov-8-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[9. Nov 9 2018](#9-nov-9-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[10. Nov 15 2018](#10-nov-15-2018)  
 
 # 1.0 About
 
