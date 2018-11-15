@@ -20,6 +20,119 @@ This page is intended to document my third phase research, prototyping and desig
 
 # 2.0 Logs
 
+## 6. November 15 2018
+<i> From my rulesheet WIP;</i>
+
+<b>About</b>
+
+This game board is intended to act as a boundary space for players to explore stressful problem situations. Players are encouraged to consider potential solutions or responses for specific stressful problems encountered in their everyday living. 
+
+How to play;
+
+1. To begin, have all players agree on a prompt word to discuss together. This word should in some way relate to a stressor of everyday living that you are willing to examine in this play session. However, you do not have to explain to the group why you do or do not want to choose a word. If none of the provided prompts are useful, the group can come up with a different word to act as a centre of discussion. Once chosen, place this word in the centre of the board.
+
+2. Players individually respond to the prompt through drawing. This drawing is done on one of the drawing tiles provided. There are no rules for what colors to use, or how literal or abstract the drawing should be. The intent is to simply respond to the prompt word in a way that “describes” one’s associated stress. 
+
+3.Once everyone is finished with their drawing, the last person to finish puts their drawing in one of the board’s petal corners and pulls without looking one coping marble from the bag. The rest of the players do this as well. 
+
+4. Once drawings are placed and everyone has a coping marble, that same player who finished the last drawing pulls a card out which matches this marble color. They may either respond to or share this card publicly. 
+
+Responding to the card means adding another element to one’s drawing tile and explaining what has been added. After responding, the coping marble is added to the player’s petal “bridge” component of the board.
+Sharing the card publicly means that the drawer doesn’t respond themselves, but instead shares the card with the other players so someone else can choose to respond to the prompt if desired. (If not, the card is returned to the bottom of the deck and the marble back in the bag). 
+
+After they have responded or shared the card, the player draws another marble for next turn and the turn is over.
+
+5. This cycle of responding and sharing to coping marbles continues until each player has three different marble colors on their petal bridge. Players who finish their bridge before the others continue to draw marbles as before, however, they now offer sharing of their learned skills to others. 
+
+6. When everyone has three different coping marbles across their petal bridges, gameplay pauses for people to redraw their stress, this time in consideration of the acquired coping skills and gameplay discussions had. This is done on the other side of the drawing tile and placed in the other half of their starting petal.
+7. When finished, players go around the table placing their reframed drawing face up into the middle of the board, making a collage of responses. Everyone shares any final thoughts or sentiments before the end of the game.
+
+
+Prompt Words <i> Quite a few are taken from the surveys;</i>
+
+Tense
+Overwhelming
+Anxiety
+Irritating
+Pressure
+Constant
+Manage
+Tiring
+Frustrating
+Frequency
+Friends
+Avoidance
+Heart
+Work
+Home
+Chore
+School
+Food
+Finances
+Responsibilities
+Emotions
+World
+Family 
+
+<b> Card breakdowns </b>
+
+<b>Group</b>
+These cards are for finding and offering 
+support and companionship within the game playing group. To be done by the drawing member and relevant mentioned people if desired.
+
+Ask if you can whisper a secret to the person to your left.
+Hold the hand of someone next to you, talking about an aspect of your stress if you wish.
+Offer to give a hug to anyone in the group who needs it.
+Hold the gaze of the person across from you for ten seconds.
+Ask the player to the right if there is anything you can do to help their situation.
+Everyone closes their eyes for 30 seconds.
+
+<b>Action</b>
+These cards suggest direct actions that can help to address the body’s stress response.
+
+Taking a ten minute walk every day in a quiet place that makes you happy.
+Holding tense muscles for thirty seconds before releasing them, working your way from your head to your toes.
+Making a cup of tea in the morning and watching as the water grows darker.
+Asking for a moment to pause the conversation if things get too heated.
+Ask a friend if you can share some of your problem.
+Write a kind note to yourself when you realize you are feeling stressed.
+
+<b>Insight</b>
+These cards are designed to help prompt through questioning, observations about the stressful situation.
+
+What is it I am actually responsible for in this situation?
+Can I compromise about part of the problem?
+What is it that I can do, not should do?
+How can I assert my emotions here?
+How am I listening to other voices beyond my own?
+How have I clarified my problem’s definition?
+How am I getting my sources of information from others involved?
+How will I test that my imagined response works?
+Is the problem as I’ve defined it solvable?
+What is a sign that lets me know I am feeling stressed about this?
+What is my desired goal in this situation?
+Is the situation being bogged by extra blame or worry?
+
+
+<b>Emotion</b>
+These cards try to address emotions that may be surrounding your stress through self directed affirmations.
+
+I can tolerate this feeling of ____
+I am hopeful for ____
+I am motivated by ____
+I am challenged by ____
+I am calmed by _____
+I am reassured by ____
+I find peace in knowing ____
+I can express my frustration by ____
+I find solidarity in ____
+I am brave for having done ____
+I can stop feeling bad about feeling ___
+I can embrace my feeling of ____
+Another word I can use for my main feeling is ____
+I can release some of these feelings from my body by ____
+The main feeling I am having is ___
+
 ## 5. November 7 2018
 
 <b>Theory</b>
