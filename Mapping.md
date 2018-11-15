@@ -26,6 +26,8 @@ The Reflective Game Design mapping project is being developped as part of my res
 ## 10. Nov 15 2018
 I did an informal playtesting of the game with a friend yesterday and he had some good feedback for me. He definitely felt that the concept of moving through an idea in this step by step way was useful, but that (as was) it felt a bit to rushed. His suggestion was to break apart the introduction so that the context of what was happening was clear, and also to add more rounds of questioning. I quite agree with both of these so in addition to trying to get it to export to a spreadsheet I want to work on these features for the tool next.
 
+[Back to top](#rgd-mapping)  
+
 ## 9. Nov 9 2018
 Very micro update - but the same link has now a full game progress loop with a working question and awnser cycle.
 https://mechabecca.itch.io/reflectwip
