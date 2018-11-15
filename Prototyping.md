@@ -10,7 +10,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[3. October 5 2018](#3-october-5-2018)   
 &nbsp;&nbsp;&nbsp;&nbsp;[4. November 4 2018](#4-november-4-2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;[5. November 7 2018](#5-november-7-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[6. November 15 2018](#6-november-15-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[6. November 15 2018 pt. 1](#6-november-15-2018-pt-1)  
+&nbsp;&nbsp;&nbsp;&nbsp;[7. November 15 2018 pt. 2](#6-november-15-2018-pt-2)  
 
 [Back to Top](#prototyping)
 
@@ -21,7 +22,14 @@ This page is intended to document my third phase research, prototyping and desig
 
 # 2.0 Logs
 
-## 6. November 15 2018  
+## 7. November 15 2018 pt. 2
+Also - some new laser cuts!!
+
+![](https://i.imgur.com/7quFG9N.jpg?1)  
+![](https://i.imgur.com/D7P8Stt.jpg)  
+![](https://i.imgur.com/k5UxW6g.jpg?1)  
+
+## 6. November 15 2018 pt. 1
 <i> The text below is taken from my rulesheet WIP; I'll be trying to edit it further and add more questions before the playtest this month.</i>  
 
 <b>About</b>  
