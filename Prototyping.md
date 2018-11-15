@@ -5,11 +5,11 @@
 
 [1.0 About](#10-about)  
 [2.0 Logs](#20-logs)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.1 August 8 2018 pt. 1](#21-august-8-2018-pt-1)   
-&nbsp;&nbsp;&nbsp;&nbsp;[2.2 August 8 2018 pt. 2](#22-august-8-2018-pt-2)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.3 October 5 2018](#23-october-5-2018)   
-&nbsp;&nbsp;&nbsp;&nbsp;[2.4 November 4 2018](#24-november-4-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.5 November 7 2018](#24-november-7-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[1. August 8 2018 pt. 1](#1-august-8-2018-pt-1)   
+&nbsp;&nbsp;&nbsp;&nbsp;[2. August 8 2018 pt. 2](#2-august-8-2018-pt-2)  
+&nbsp;&nbsp;&nbsp;&nbsp;[3. October 5 2018](#3-october-5-2018)   
+&nbsp;&nbsp;&nbsp;&nbsp;[4. November 4 2018](#4-november-4-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[5. November 7 2018](#4-november-7-2018)  
 
 [Back to Top](#prototyping)
 
@@ -20,7 +20,7 @@ This page is intended to document my third phase research, prototyping and desig
 
 # 2.0 Logs
 
-## 2.5 November 7 2018
+## 5. November 7 2018
 
 <b>Theory</b>
 
@@ -65,7 +65,7 @@ Finally, I did a few board drafts to try and play with the flower idea. They sti
 [Back to Top](#prototyping)
 
 
-## 2.4 November 4 2018
+## 4. November 4 2018
 Quite a few developments have happened on the project lately, and I think I've finally started to move into a general gameplay loop that is one I will want to be playtesting.  
 
 <b>Theory</b>  
@@ -138,7 +138,7 @@ The goal of the game is to describe one's stress, possible coping mechanisms, an
 
 [Back to Top](#prototyping)
 
-## 2.3 October 5 2018
+## 3. October 5 2018
 Lately I have been doing a lot of [paper based idea generation and prototyping](https://imgur.com/a/XgsZRgr), rather than jumping into a game engine and starting to fiddle with things directly. Likewise, I've created a working game design document that is still being edited but is trying to convert my game design goals to playable mechanics. 
 
 ![](https://i.imgur.com/sOZiUsv.png?1)
@@ -163,7 +163,7 @@ Finally, one thing that I've been considering as part of this program is how the
 [Back to Top](#prototyping)
 
 
-## 2.2 August 8 2018 pt. 2
+## 2. August 8 2018 pt. 2
 Inspired by all the student brainstorming happening at critical hit, I'm going to try and come up with <s>100</s> <s>50</s> 20 game ideas by the end of this week. Some are likely to be only loosely described. However, I am aiming to commonly keep them be about <b>reflection on stress and coping</b>.
 
 1. A gift giving game where players give "gifts" (empty boxes) to each other with prompts inside that ask each other what they can really give the other person.
@@ -190,7 +190,7 @@ Inspired by all the student brainstorming happening at critical hit, I'm going t
 
 [Back to Top](#prototyping)
 
-## 2.1 August 8 2018 pt. 1
+## 1. August 8 2018 pt. 1
 Due to some unfortunate life events, I've both been inspired and hindered from working on these thesis logs for several weeks. First, inspiration: thinking about what remains - what is comforting - after the extraneous elements of our lives, stuff, and everything else fades into the background and we focus on dealing with our stress. Second, the unfortunate: the revelations have come after being hounded by bedbugs in my new apartment. While mild in comparison to what some new homeowners need to face, the experience of throwing out many of one's belongings, of being decentralized from one's living area, is an extremely tense and unpleasant one. So much of our most private identity and habits are tied to where we live and sleep, and holding onto that sense of internal strength has been at times difficult recently in the face of overwhelming emotions and uncertainty about this space. What has been comforting, much I think like what the participants understood and recognized in their works, is the companionship found in a community of friends and loved ones. 
 
 While I am still not sure how I will care for the specific project ideas that were started in the workshops, I want to stay true to what the core design goal of these individual projects are - expression, companionship, growth, comfort. At the same time that I am revisiting the data produced from these sessions, I am thinking about how I will make the design process as transparent as possible on my end. Live streaming work sessions, office hours, and other physical public access options are things that have been considered. However, this will likely also depend on what kind of making ends up happening.
