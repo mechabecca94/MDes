@@ -21,7 +21,7 @@ This page is intended to document my third phase research, prototyping and desig
 # 2.0 Logs
 
 ## 6. November 15 2018
-<i> From my rulesheet WIP;</i>
+<i> The text below is taken from my rulesheet WIP; I'll be trying to edit it further and add more questions before the playtest this month.</i>
 
 <b>About</b>
 
@@ -48,7 +48,7 @@ After they have responded or shared the card, the player draws another marble fo
 7. When finished, players go around the table placing their reframed drawing face up into the middle of the board, making a collage of responses. Everyone shares any final thoughts or sentiments before the end of the game.
 
 
-Prompt Words <i> Quite a few are taken from the surveys;</i>
+Prompt Words <i> Side note: Quite a few are taken from the surveys;</i>
 
 Tense
 Overwhelming
@@ -76,63 +76,55 @@ Family
 
 <b> Card breakdowns </b>
 
-<b>Group</b>
-These cards are for finding and offering 
-support and companionship within the game playing group. To be done by the drawing member and relevant mentioned people if desired.
+![](blob:https://imgur.com/1ca001f6-4531-4316-9f4b-9d98f472a37c)  
 
-Ask if you can whisper a secret to the person to your left.
-Hold the hand of someone next to you, talking about an aspect of your stress if you wish.
-Offer to give a hug to anyone in the group who needs it.
-Hold the gaze of the person across from you for ten seconds.
-Ask the player to the right if there is anything you can do to help their situation.
-Everyone closes their eyes for 30 seconds.
+<b>Group</b>  
+Ask if you can whisper a secret to the person to your left.  
+Hold the hand of someone next to you, talking about an aspect of your stress if you wish.  
+Offer to give a hug to anyone in the group who needs it.  
+Hold the gaze of the person across from you for ten seconds.  
+Ask the player to the right if there is anything you can do to help their situation.  
+Everyone closes their eyes for 30 seconds.  
 
-<b>Action</b>
-These cards suggest direct actions that can help to address the body’s stress response.
+<b>Action</b>  
+Taking a ten minute walk every day in a quiet place that makes you happy.  
+Holding tense muscles for thirty seconds before releasing them, working your way from your head to your toes.  
+Making a cup of tea in the morning and watching as the water grows darker.  
+Asking for a moment to pause the conversation if things get too heated.  
+Ask a friend if you can share some of your problem.  
+Write a kind note to yourself when you realize you are feeling stressed.  
 
-Taking a ten minute walk every day in a quiet place that makes you happy.
-Holding tense muscles for thirty seconds before releasing them, working your way from your head to your toes.
-Making a cup of tea in the morning and watching as the water grows darker.
-Asking for a moment to pause the conversation if things get too heated.
-Ask a friend if you can share some of your problem.
-Write a kind note to yourself when you realize you are feeling stressed.
+<b>Insight</b>  
+What is it I am actually responsible for in this situation?  
+Can I compromise about part of the problem?  
+What is it that I can do, not should do?  
+How can I assert my emotions here?  
+How am I listening to other voices beyond my own?  
+How have I clarified my problem’s definition?  
+How am I getting my sources of information from others involved?  
+How will I test that my imagined response works?  
+Is the problem as I’ve defined it solvable?  
+What is a sign that lets me know I am feeling stressed about this?  
+What is my desired goal in this situation?  
+Is the situation being bogged by extra blame or worry?  
 
-<b>Insight</b>
-These cards are designed to help prompt through questioning, observations about the stressful situation.
-
-What is it I am actually responsible for in this situation?
-Can I compromise about part of the problem?
-What is it that I can do, not should do?
-How can I assert my emotions here?
-How am I listening to other voices beyond my own?
-How have I clarified my problem’s definition?
-How am I getting my sources of information from others involved?
-How will I test that my imagined response works?
-Is the problem as I’ve defined it solvable?
-What is a sign that lets me know I am feeling stressed about this?
-What is my desired goal in this situation?
-Is the situation being bogged by extra blame or worry?
-
-
-<b>Emotion</b>
-These cards try to address emotions that may be surrounding your stress through self directed affirmations.
-
-I can tolerate this feeling of ____
-I am hopeful for ____
-I am motivated by ____
-I am challenged by ____
-I am calmed by _____
-I am reassured by ____
-I find peace in knowing ____
-I can express my frustration by ____
-I find solidarity in ____
-I am brave for having done ____
-I can stop feeling bad about feeling ___
-I can embrace my feeling of ____
-Another word I can use for my main feeling is ____
-I can release some of these feelings from my body by ____
-The main feeling I am having is ___
-
+<b>Emotion</b>  
+I can tolerate this feeling of ____  
+I am hopeful for ____  
+I am motivated by ____  
+I am challenged by ____  
+I am calmed by _____  
+I am reassured by ____  
+I find peace in knowing ____  
+I can express my frustration by ____  
+I find solidarity in ____  
+I am brave for having done ____  
+I can stop feeling bad about feeling ___  
+I can embrace my feeling of ____  
+Another word I can use for my main feeling is ____  
+I can release some of these feelings from my body by ____  
+The main feeling I am having is ___  
+  
 ## 5. November 7 2018
 
 <b>Theory</b>
