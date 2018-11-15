@@ -4,15 +4,16 @@
 
 [1.0 About](#10-about)  
 [2.0 Logs](#20-logs)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.1 May 10 2018](#21-may-10-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.2 May 22 2018](#22-may-19-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.3 June 5 2018](#23-june-5-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.4 July 3 2018](#24-july-3-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.5 Oct 19 2018](#25-oct-19-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.6 Oct 28 2018](#26-oct-28-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.7 Nov 2 2018](#27-nov-2-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.8 Nov 8 2018](#28-nov-8-2018)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.9 Nov 9 2018](#29-nov-9-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[1. May 10 2018](#1.-may-10-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2. May 22 2018](#2.-may-19-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[3. June 5 2018](#3.-june-5-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[4. July 3 2018](#4.-july-3-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[5. Oct 19 2018](#5.-oct-19-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[6. Oct 28 2018](#6.-oct-28-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[7. Nov 2 2018](#7.-nov-2-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[8. Nov 8 2018](#8.-nov-8-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[9. Nov 9 2018](#9.-nov-9-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[10. Nov 15 2018](#10.-nov-9-2018)  
 
 # 1.0 About
 
@@ -22,7 +23,10 @@ The Reflective Game Design mapping project is being developped as part of my res
 
 # 2.0 Logs  
 
-## 2.9 Nov 9 2018
+## 10. Nov 15 2018
+I did an informal playtesting of the game with a friend yesterday and he had some good feedback for me. He definitely felt that the concept of moving through an idea in this step by step way was useful, but that (as was) it felt a bit to rushed. His suggestion was to break apart the introduction so that the context of what was happening was clear, and also to add more rounds of questioning. I quite agree with both of these so in addition to trying to get it to export to a spreadsheet I want to work on these features for the tool next.
+
+## 9. Nov 9 2018
 Very micro update - but the same link has now a full game progress loop with a working question and awnser cycle.
 https://mechabecca.itch.io/reflectwip
 
@@ -32,7 +36,7 @@ There are 30 questions (five for each of six categories) and four rounds drafted
 
 [Back to top](#rgd-mapping)  
 
-## 2.8 Nov 8 2018
+## 8. Nov 8 2018
 It doesn't look like much yet but a wip twine version of the game...
 Hoping to get the loop done tomorrow
 (Password: Reflect)
@@ -40,7 +44,7 @@ https://mechabecca.itch.io/reflectwip
 
 [Back to top](#rgd-mapping)  
 
-## 2.7 Nov 2 2018
+## 7. Nov 2 2018
 <b>Research</b>  
 This week I've been looking per Rilla's suggestion into creativity. Most of the literature I looked at was interested in the psychological causes of creativity and ways to quantitatively describe it. However, one method called the ["Six Thinking Hats"](https://www.mindtools.com/pages/article/newTED_07.htm) technique proved useful for thinking about question addressing though different lenses. 
 
@@ -93,7 +97,7 @@ I'd like to try and see how other rulesets could apply to these same or similar 
 
 [Back to top](#rgd-mapping)  
 
-## 2.6 Oct 28 2018
+## 6. Oct 28 2018
 
 <b>Research</b>
 
@@ -142,7 +146,7 @@ Conklin, J. (2006). Dialogue Mapping: Building Shared Understanding of Wicked Pr
 
 [Back to top](#rgd-mapping)  
 
-## 2.5 Oct 19 2018
+## 5. Oct 19 2018
 
 Today and yesterday while working to refamiliarize myself with this cards/ mapping project, I decided to look a bit deeper at 
 what else is out there for mapping type softwares. I ended up encountering the idea of "issue based information systems" (courtesy of Rittel and his wicked problems), as well as a more general "problem structuring methods." I think that these concepts could be pretty important for making a backbone to our own mapping project, and it was quite striking the similarities that had been emergent between my first card based attempt at mapping a sense making space and the one that was established by Rittel. 
@@ -152,7 +156,7 @@ As well, I've also made a design <a href="https://docs.google.com/document/d/1eW
 [Back to top](#rgd-mapping)  
 
 
-## 2.4 July 3 2018
+## 4. July 3 2018
 
 In the last showing of the RGD cards, folks thought that the rules might be a bit tricky / overly complicated to navigate. Agreeing, I tried to do my own unguided "playthrough" of the cards, both physically and [digitally.](https://mechabecca.itch.io/brainstorming)
 
@@ -168,7 +172,7 @@ Next, I will be trying to take the prompts I gave myself during this excercise (
 
 [Back to top](#rgd-mapping)  
 
-## 2.3 June 5 2018
+## 3. June 5 2018
 
 I have done some more work on the game since Congress, and thanks to me wanting to familiarize myself with the laser cutter a bit more, made a (very rough) version of the game 
 
@@ -178,7 +182,7 @@ I have done some more work on the game since Congress, and thanks to me wanting 
 
 [Back to top](#rgd-mapping)  
 
-## 2.2 May 19 2018
+## 2. May 19 2018
 
 I first created another iteration of the cards prototype, which involved branching out parallelograms and triangles to create a "map" of a reflective game. 
 
@@ -198,7 +202,7 @@ Since this meeting I switched gears to work on the presentation and haven't had 
 
 [Back to top](#rgd-mapping)  
 
-## 2.1 May 10 2018
+## 1. May 10 2018
 
 ![](https://i.imgur.com/uuohdDp.png)  
 
