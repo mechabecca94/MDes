@@ -20,35 +20,36 @@ This page is intended to document my third phase research, prototyping and desig
 
 # 2.0 Logs
 
-## 6. November 15 2018
-<i> The text below is taken from my rulesheet WIP; I'll be trying to edit it further and add more questions before the playtest this month.</i>
+## 6. November 15 2018  
+<i> The text below is taken from my rulesheet WIP; I'll be trying to edit it further and add more questions before the playtest this month.</i>  
 
-<b>About</b>
+<b>About</b>  
 
-This game board is intended to act as a boundary space for players to explore stressful problem situations. Players are encouraged to consider potential solutions or responses for specific stressful problems encountered in their everyday living. 
+This game board is intended to act as a boundary space for players to explore stressful problem situations. Players are encouraged to consider potential solutions or responses for specific stressful problems encountered in their everyday living.   
 
-How to play;
+<b>How to play;</b>  
 
-1. To begin, have all players agree on a prompt word to discuss together. This word should in some way relate to a stressor of everyday living that you are willing to examine in this play session. However, you do not have to explain to the group why you do or do not want to choose a word. If none of the provided prompts are useful, the group can come up with a different word to act as a centre of discussion. Once chosen, place this word in the centre of the board.
+1. To begin, have all players agree on a prompt word to discuss together. This word should in some way relate to a stressor of everyday living that you are willing to examine in this play session. However, you do not have to explain to the group why you do or do not want to choose a word. If none of the provided prompts are useful, the group can come up with a different word to act as a centre of discussion. Once chosen, place this word in the centre of the board.  
 
-2. Players individually respond to the prompt through drawing. This drawing is done on one of the drawing tiles provided. There are no rules for what colors to use, or how literal or abstract the drawing should be. The intent is to simply respond to the prompt word in a way that “describes” one’s associated stress. 
+2. Players individually respond to the prompt through drawing. This drawing is done on one of the drawing tiles provided. There are no rules for what colors to use, or how literal or abstract the drawing should be. The intent is to simply respond to the prompt word in a way that “describes” one’s associated stress.   
 
 3.Once everyone is finished with their drawing, the last person to finish puts their drawing in one of the board’s petal corners and pulls without looking one coping marble from the bag. The rest of the players do this as well. 
 
 4. Once drawings are placed and everyone has a coping marble, that same player who finished the last drawing pulls a card out which matches this marble color. They may either respond to or share this card publicly. 
 
-Responding to the card means adding another element to one’s drawing tile and explaining what has been added. After responding, the coping marble is added to the player’s petal “bridge” component of the board.
-Sharing the card publicly means that the drawer doesn’t respond themselves, but instead shares the card with the other players so someone else can choose to respond to the prompt if desired. (If not, the card is returned to the bottom of the deck and the marble back in the bag). 
+Responding to the card means adding another element to one’s drawing tile and explaining what has been added. After responding, the coping marble is added to the player’s petal “bridge” component of the board.  
+Sharing the card publicly means that the drawer doesn’t respond themselves, but instead shares the card with the other players so someone else can choose to respond to the prompt if desired. (If not, the card is returned to the bottom of the deck and the marble back in the bag).   
 
-After they have responded or shared the card, the player draws another marble for next turn and the turn is over.
+After they have responded or shared the card, the player draws another marble for next turn and the turn is over.  
 
-5. This cycle of responding and sharing to coping marbles continues until each player has three different marble colors on their petal bridge. Players who finish their bridge before the others continue to draw marbles as before, however, they now offer sharing of their learned skills to others. 
+5. This cycle of responding and sharing to coping marbles continues until each player has three different marble colors on their petal bridge. Players who finish their bridge before the others continue to draw marbles as before, however, they now offer sharing of their learned skills to others.   
 
-6. When everyone has three different coping marbles across their petal bridges, gameplay pauses for people to redraw their stress, this time in consideration of the acquired coping skills and gameplay discussions had. This is done on the other side of the drawing tile and placed in the other half of their starting petal.
-7. When finished, players go around the table placing their reframed drawing face up into the middle of the board, making a collage of responses. Everyone shares any final thoughts or sentiments before the end of the game.
+6. When everyone has three different coping marbles across their petal bridges, gameplay pauses for people to redraw their stress, this time in consideration of the acquired coping skills and gameplay discussions had. This is done on the other side of the drawing tile and placed in the other half of their starting petal.  
 
+7. When finished, players go around the table placing their reframed drawing face up into the middle of the board, making a collage of responses. Everyone shares any final thoughts or sentiments before the end of the game.  
 
-Prompt Words <i> Side note: Quite a few are taken from the surveys;</i>
+<b>Prompt Words </b>  
+<i> Side note: Quite a few are taken from the surveys;</i>
 
 Tense
 Overwhelming
@@ -74,9 +75,9 @@ Emotions
 World
 Family 
 
-<b> Card breakdowns </b>
+<b> Card breakdowns </b>  
 
-![](blob:https://imgur.com/1ca001f6-4531-4316-9f4b-9d98f472a37c)  
+![](https://i.imgur.com/aNgbkGb.png)  
 
 <b>Group</b>  
 Ask if you can whisper a secret to the person to your left.  
