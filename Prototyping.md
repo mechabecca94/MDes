@@ -33,14 +33,15 @@ This game board is intended to act as a boundary space for players to explore st
 
 2. Players individually respond to the prompt through drawing. This drawing is done on one of the drawing tiles provided. There are no rules for what colors to use, or how literal or abstract the drawing should be. The intent is to simply respond to the prompt word in a way that “describes” one’s associated stress.   
 
-3.Once everyone is finished with their drawing, the last person to finish puts their drawing in one of the board’s petal corners and pulls without looking one coping marble from the bag. The rest of the players do this as well. 
+3. Once everyone is finished with their drawing, the last person to finish puts their drawing in one of the board’s petal corners and pulls without looking one coping marble from the bag. The rest of the players do this as well. 
 
 4. Once drawings are placed and everyone has a coping marble, that same player who finished the last drawing pulls a card out which matches this marble color. They may either respond to or share this card publicly. 
 
-Responding to the card means adding another element to one’s drawing tile and explaining what has been added. After responding, the coping marble is added to the player’s petal “bridge” component of the board.  
-Sharing the card publicly means that the drawer doesn’t respond themselves, but instead shares the card with the other players so someone else can choose to respond to the prompt if desired. (If not, the card is returned to the bottom of the deck and the marble back in the bag).   
+- Responding to the card means adding another element to one’s drawing tile and explaining what has been added. After responding, the coping marble is added to the player’s petal “bridge” component of the board.  
 
-After they have responded or shared the card, the player draws another marble for next turn and the turn is over.  
+- Sharing the card publicly means that the drawer doesn’t respond themselves, but instead shares the card with the other players so someone else can choose to respond to the prompt if desired. (If not, the card is returned to the bottom of the deck and the marble back in the bag).   
+
+- After they have responded or shared the card, the player draws another marble for next turn and the turn is over.  
 
 5. This cycle of responding and sharing to coping marbles continues until each player has three different marble colors on their petal bridge. Players who finish their bridge before the others continue to draw marbles as before, however, they now offer sharing of their learned skills to others.   
 
