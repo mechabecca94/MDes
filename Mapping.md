@@ -24,7 +24,7 @@ The Reflective Game Design mapping project is being developped as part of my res
 # 2.0 Logs  
 
 ## 10. Nov 15 2018
-I did an informal playtesting of the game with a friend yesterday and he had some good feedback for me. He definitely felt that the concept of moving through an idea in this step by step way was useful, but that (as was) it felt a bit to rushed. His suggestion was to break apart the introduction so that the context of what was happening was clear, and also to add more rounds of questioning. I quite agree with both of these so in addition to trying to get it to export to a spreadsheet I want to work on these features for the tool next.
+I did an informal playtesting of the game with a friend yesterday and he had some good feedback for me. He definitely felt that the concept of moving through an idea in this step by step way was useful, but that (as was) it felt a bit too rushed. His suggestion was to break apart the introduction so that the context of what was happening was clear, and also to add more rounds of questioning. I quite agree with both of these so in addition to trying to get it to export to a spreadsheet I want to work on these elaborating features next.
 
 [Back to top](#rgd-mapping)  
 
