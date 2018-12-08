@@ -15,6 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[9. Nov 9 2018](#9-nov-9-2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;[10. Nov 15 2018](#10-nov-15-2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;[11. Dec 6 2018](#11-dec-6-2018)  
+&nbsp;&nbsp;&nbsp;&nbsp;[12. Dec 7 2018](#12-dec-7-2018)  
 
 # 1.0 About
 
@@ -23,7 +24,8 @@ The Reflective Game Design mapping project is being developped as part of my res
 [Back to top](#rgd-mapping)  
 
 # 2.0 Logs  
-
+## 12. Dec 7 2018
+oops... I broke something while updating the graphics :(. Gonna try to fix tomorrow, I know the error is happening with variables somehow becoming "undefined"... 
 
 ## 11. Dec 6 2018
 It's been a while since my last update, but I think things are making some pretty good progress on the project. Much of my focus has been on co-writing a chapter proposal with Rilla and figuring out the details for a more formal research study with the map tool. On the software end, a few things have been updated, namely an expanded question bank with eight questions instead of four for each category. During this process of writing new potentially reflective questions I found myself moving some questions into different categories that on this read seemed to fit better. I am not sure if that is because I hadn’t clearly defined the questions at the beginning of the game last time, but I hope that this restructuring clears up some of the ambiguity about why these questions are being asked. 
