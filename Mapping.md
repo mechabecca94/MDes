@@ -27,10 +27,11 @@ The Reflective Game Design mapping project is being developped as part of my res
 # 2.0 Logs 
 
 ## 13. Jan 22 2019
-Wow, a while since the last update! Fortunately things are not broken and in fact are doing quite well with the project I think. First, the bug that was breaking the game was found – it had to do with a fade-in animation breaking Twine when the custom google form code was recorded, so I asked a friend to help me rewrite that out of there. Second, I sent the now fixed version to a couple of folks last week and got some awesome feedback that in summary mostly said:
+Wow, a while since the last update! Fortunately things are not broken and in fact are doing quite well with the project I think. First, the bug that was breaking the game was found – it had to do with a fade-in animation breaking Twine, so I asked a friend to help me rewrite that out of there. Second, I sent the now fixed version to a couple of folks last week and got some awesome feedback that in summary mostly said:
 -	People didn’t think the character limit was long enough (was 100, is now 280/Tweet size)
 -	Some of the wording was confusing on the questions
--	The framing of the exercise (“what is reflection?”) was a bit vague
+-	The framing of the exercise (“what is reflection?”) was a bit vague  
+
 I’ve fixed these and other issues in the most recent version as screenshotted below. With this we should be good to go for our big research test at the Global Game Jam 2019. I’m excited to see how player ideas develop between using the tool and their end project!
 
 ![](https://i.imgur.com/SmTWDuO.png)
@@ -40,6 +41,8 @@ I’ve fixed these and other issues in the most recent version as screenshotted 
 ![](https://i.imgur.com/Q6fE1MI.png)
 
 ![](https://i.imgur.com/opnc9m5.png)
+
+[Back to top](#rgd-mapping)  
 
 ## 12. Dec 7 2018
 oops... I broke something while updating the graphics :(. Gonna try to fix tomorrow, I know the error is happening with variables somehow becoming "undefined"... 
