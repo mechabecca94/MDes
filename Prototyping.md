@@ -12,6 +12,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[5. November 7 2018](#5-november-7-2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;[6. November 15 2018 pt. 1](#6-november-15-2018-pt-1)  
 &nbsp;&nbsp;&nbsp;&nbsp;[7. November 15 2018 pt. 2](#6-november-15-2018-pt-2)  
+&nbsp;&nbsp;&nbsp;&nbsp;[8. March 17 2019 pt. 1](#7-march-17-2019-pt-1)  
+&nbsp;&nbsp;&nbsp;&nbsp;[9. March 17 2019 pt. 2](#8-march-17-2019-pt-2)  
 
 [Back to Top](#prototyping)
 
@@ -22,6 +24,41 @@ This page is intended to document my third phase research, prototyping and desig
 
 # 2.0 Logs
 
+## 9. March 17 2019 pt. 2
+Unfortunately I wasn't able to do a second playtest yet because of some paint troubles, but I was able to get some process photos of my response to the last playtest. Below are those photos, along with the current ruleset for reference. 
+
+![](blob:https://imgur.com/bb6e5674-dcdf-4f6c-bb36-35b1dfdb755e)
+
+## 8. March 17 2019 pt. 1
+Last term, I tested the previously mentioned prototypes with a group of playtesters at TAG.   
+
+![](https://s.imgur.com/images/large-image-placeholder.png)
+
+Although I had a rough draft set of rules for people to try, mostly I was curious to see how people interacted with the materials, and what they thought of the prompts.  
+
+![](https://s.imgur.com/images/large-image-placeholder.png)
+  
+We made two main groups, and from both a group discussion after the test and from reading some surveys I administered survey,
+this iteration of the game had some promises and difficulties.  
+
+![](https://s.imgur.com/images/large-image-placeholder.png)
+
+<u>THE GOOD</u>
+- The board itself was very enticing to people, the wooden version mostly.  
+- Many participants expressed a sort of joy or childlike reaction to the drawing activity, remembering similar toys that they had used in their childhoods.  
+- People had enjoyed the "icebreaker" type prompts, feeling like it was an easy way to access what might otherwise be a tricky subject (stress).  
+
+<u>THE DIFFICULT</u>
+- The prompts were at times not relatable for everyone. Sometimes they were too specific, and others, not enough.  
+- Although this did not occur in the second group of players, in mine I saw that one of the players did not feel immersed because they were not a "drawer," and they ended up sitting around while others spend much more time on detailed responses.  
+  
+<u>THE DESIGN INSIGHTS</u>
+- The board seems to bring a sort of magical aura and curiosity with it, making me feel like I want to further explore this emotional reaction to the materials.   
+- I think my critical mistake with this round was trying to design a "board game," and not a "drawing" game. The latter is much more what I am trying to do - a kind of creative group creation.  
+- "Stress" is a word that carries a lot of medical, social, and cultural connotations - the medical ones particularly I think I might be best to shift my focus away from. To do this without losing the spirit of the project, I am going to try and incorporate more of a cultural studies and intersectional perspective.  
+- To further make the prompts accessible, I want to try and use my own illustrations as a form of projective prompt. (I met with a researcher in the education department, who suggested this line of inquiry given its connection to art therapy and emotional discussions.)  
+- Finally, I want to simplify the rules even more, so that the base interactions are clearly defined and emphasis is given on group discussion and collective action.  
+  
 ## 7. November 15 2018 pt. 2
 Also - some new laser cuts!!
 
