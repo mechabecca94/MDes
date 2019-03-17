@@ -25,49 +25,62 @@ This page is intended to document my third phase research, prototyping and desig
 # 2.0 Logs
 
 ## 9. March 17 2019 pt. 2
-Unfortunately I haven't able to do a second playtest yet because of some paint drying related troubles, but I was able to get some process photos of my response to the last playtest. Below are those photos, along with the current ruleset for reference. 
-
-![](blob:https://imgur.com/bb6e5674-dcdf-4f6c-bb36-35b1dfdb755e)
-
+Unfortunately I haven't able to do a second playtest yet because of some paint drying related troubles, but I was able to get some process photos of my response to the last playtest. Below are those photos, along with the current ruleset for reference.     
+![](https://i.imgur.com/eWzsELM.jpg)    
+   
 <b>The goal:</b>   
 Using the game cards, fill in as much of the board as you can with your group’s drawings. One game run involves filling up a leaf on the board.   
+    
+<b>To start:</b>   
+Separate the red and blue decks. Shuffle the blue deck and put it face down. These will be used later to help prompt the drawings.  
+
+![](https://i.imgur.com/AAZtmw6.jpg)  
+
+Next, evenly divide the red deck cards between players. On them, use the chalk markers to write a one word related to <b>wellness</b> that is relevant to you. This may be something that defines, represents, or is an example of this concept for you.  
+    
+![](https://i.imgur.com/27X4DLn.jpg)  
   
-
-<b>To start:</b>  
-Separate the red and blue decks. Shuffle the blue deck and put it face down. These will be used later to help prompt the drawings.
-
-Next, evenly divide the red deck cards between players. On them, use the chalk markers to write a one word related to wellness that is relevant to you. This may be something that defines, represents, or is an example of this concept for you. 
-
-Put these face down in a mixed up pile when everyone is done.
-
-<b>To play:</b>
-<i> 1) Planning </i>
-To start, a player will draw one of the red deck cards from the pile and write its word on one of the inner petals. Then, they will draw out a blue deck prompt card and flip it over for everyone to see. 
-
-Once all the players understand the subject they need to draw to advance, the group will negotiate what kind of illustration they want to make of it. Considering both the red prompt and blue subject cards, players draw together the agreed picture. 
-
-HOWEVER, they may only use the number of lines that is indicated on the drawn blue card! Each player can draw any number of lines as long as the total number of lines is equal to the indicated by the subject card.
-
-<i>2) Draw!</i>
-Once the picture is agreed upon and everyone knows who will be drawing what, it is time to start the timer and draw the picture before the timer expires.
-
-<b>To end:</b>
-After a leaf is filled, a player who has not yet drawn any cards gets to pull out the next round’s red and blue cards. This cycle of drawing cards is then continued until all of the possible drawing spaces are filled.
-
-
+Put these face down in a mixed up pile when everyone is done.  
+  
+<b>To play:</b>  
+<i> 1) Planning </i>  
+To start, a player will draw one of the red deck cards from the pile and write its word on one of the inner petals. Then, they will draw out a blue deck prompt card and flip it over for everyone to see.   
+  
+![](https://i.imgur.com/XpV18lR.jpg)  
+    
+![](https://i.imgur.com/9nYCZZp.jpg)  
+  
+Once all the players understand the subject they need to draw to advance, the group will negotiate what kind of illustration they want to make of it. Considering both the red prompt and blue subject cards, players draw together the agreed picture.  
+  
+HOWEVER, they may only use the number of lines that is indicated on the drawn blue card! Each player can draw any number of lines as long as the total number of lines is equal to the indicated by the subject card.  
+  
+<i>2)Draw!</i>
+Once the picture is agreed upon and everyone knows who will be drawing what, it is time to start the timer and draw the picture before the timer expires.  
+  
+![](https://i.imgur.com/bjFHAau.jpg)  
+    
+![](blob:https://imgur.com/d76158d7-a6f9-4824-a11b-7faee08ad44e)  
+   
+<b>To end:</b>  
+After a leaf is filled, a player who has not yet drawn any cards gets to pull out the next round’s red and blue cards. This cycle of drawing cards is then continued until all of the possible drawing spaces are filled.  
+  
+![](https://i.imgur.com/mR1R1Gx.jpg) 
+   
+![](https://i.imgur.com/LjZq2vq.jpg)  
+  
 ## 8. March 17 2019 pt. 1
 Last term, I tested the previously mentioned prototypes with a group of playtesters at TAG.   
 
-![](https://s.imgur.com/images/large-image-placeholder.png)
+![](https://i.imgur.com/KU66gxo.jpg)
 
 Although I had a rough draft set of rules for people to try, mostly I was curious to see how people interacted with the materials, and what they thought of the prompts.  
 
-![](https://s.imgur.com/images/large-image-placeholder.png)
+![](https://i.imgur.com/kf9Qcrd.jpg)
   
 We made two main groups, and from both a group discussion after the test and from reading some surveys I administered survey,
 this iteration of the game had some promises and difficulties.  
 
-![](https://s.imgur.com/images/large-image-placeholder.png)
+![](https://i.imgur.com/B9x7EJG.jpg)
 
 <u>THE GOOD</u>
 - The board itself was very enticing to people, the wooden version mostly.  
