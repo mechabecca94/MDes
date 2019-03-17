@@ -25,7 +25,8 @@ This page is intended to document my third phase research, prototyping and desig
 # 2.0 Logs
 
 ## 9. March 17 2019 pt. 2  
-Unfortunately I haven't able to do a second playtest yet because of some paint drying related troubles, but I was able to get some process photos of my response to the last playtest. Below are those photos, along with the current ruleset for reference.       
+Unfortunately I haven't able to do a second playtest yet because of some paint drying related troubles, but I was able to get some process photos of my response to the last playtest. Below are those photos, along with the current ruleset for reference.
+   
 <b>The goal:</b>   
 Using the game cards, fill in as much of the board as you can with your group’s drawings. One game run involves filling up four leaves over four rounds.     
    
@@ -60,13 +61,15 @@ Once the picture is agreed upon and everyone knows who will be drawing what, it 
 ![](https://i.imgur.com/bjFHAau.jpg)  
     
 ![](blob:https://imgur.com/d76158d7-a6f9-4824-a11b-7faee08ad44e)  
-   
+  
 <b>To end:</b>  
 After a leaf is filled, a player who has not yet drawn any cards gets to pull out the next round’s red and blue cards. This cycle of drawing cards is then continued until all of the possible drawing spaces are filled.  
   
 ![](https://i.imgur.com/mR1R1Gx.jpg) 
    
 ![](https://i.imgur.com/LjZq2vq.jpg)  
+   
+[Back to Top](#prototyping)   
   
 ## 8. March 17 2019 pt. 1
 Last term, I tested the previously mentioned prototypes with a group of playtesters at TAG.   
@@ -97,13 +100,17 @@ this iteration of the game had some promises and difficulties.
 - "Stress" is a word that carries a lot of medical, social, and cultural connotations - the medical ones particularly I think I might be best to shift my focus away from. To do this without losing the spirit of the project, I am going to try and incorporate more of a cultural studies and intersectional perspective.  
 - To further make the prompts accessible, I want to try and use my own illustrations as a form of projective prompt. (I met with a researcher in the education department, who suggested this line of inquiry given its connection to art therapy and emotional discussions.)  
 - Finally, I want to simplify the rules even more, so that the base interactions are clearly defined and emphasis is given on group discussion and collective action.  
-  
+    
+[Back to Top](#prototyping)   
+
 ## 7. November 15 2018 pt. 2
 Also - some new laser cuts!!
 
 ![](https://i.imgur.com/7quFG9N.jpg?1)  
 ![](https://i.imgur.com/D7P8Stt.jpg)  
 ![](https://i.imgur.com/k5UxW6g.jpg?1)  
+   
+[Back to Top](#prototyping)  
 
 ## 6. November 15 2018 pt. 1
 <i> The text below is taken from my rulesheet WIP; I'll be trying to edit it further and add more questions before the playtest this month.</i>  
