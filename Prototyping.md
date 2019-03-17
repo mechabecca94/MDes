@@ -24,13 +24,13 @@ This page is intended to document my third phase research, prototyping and desig
 
 # 2.0 Logs
 
-## 9. March 17 2019 pt. 2
-Unfortunately I haven't able to do a second playtest yet because of some paint drying related troubles, but I was able to get some process photos of my response to the last playtest. Below are those photos, along with the current ruleset for reference.     
+## 9. March 17 2019 pt. 2  
+Unfortunately I haven't able to do a second playtest yet because of some paint drying related troubles, but I was able to get some process photos of my response to the last playtest. Below are those photos, along with the current ruleset for reference.       
+<b>The goal:</b>   
+Using the game cards, fill in as much of the board as you can with your group’s drawings. One game run involves filling up four leaves over four rounds.     
+   
 ![](https://i.imgur.com/eWzsELM.jpg)    
    
-<b>The goal:</b>   
-Using the game cards, fill in as much of the board as you can with your group’s drawings. One game run involves filling up a leaf on the board.   
-    
 <b>To start:</b>   
 Separate the red and blue decks. Shuffle the blue deck and put it face down. These will be used later to help prompt the drawings.  
 
