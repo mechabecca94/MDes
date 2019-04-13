@@ -17,6 +17,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[11. Dec 6 2018](#11-dec-6-2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;[12. Dec 7 2018](#12-dec-7-2018)  
 &nbsp;&nbsp;&nbsp;&nbsp;[13. Jan 22 2019](#13-jan-22-2019)  
+&nbsp;&nbsp;&nbsp;&nbsp;[14. April 19 2019](#14-april-19-2019)  
+
 
 # 1.0 About
 
@@ -25,6 +27,15 @@ The Reflective Game Design mapping project is being developped as part of my res
 [Back to top](#rgd-mapping)  
 
 # 2.0 Logs 
+
+## 14. April 13 2019
+Using the feedback written about in the last post, Rilla and I worked during the Global Game Jam 2019 to document participant responses using the tool. We recruited eighteen people in game making groups of various sizes to try the tool before the jam got too far underway, so that we could see how the team dynamics started and how the idea was originally conceived. We also sent out a post jam survey, asking about how the tool was perceived, and also how the participants self rated the "reflective" attributes of their games.
+
+The early short abstract of this project has been accepted to DiGRA Kyoto 2019, and so I'm currently working to further elaborate on our data collection and analysis methods per the recommendation of one of the reviewers. 
+
+![](https://i.imgur.com/iZAWYIS.png)
+
+[Back to top](#rgd-mapping)  
 
 ## 13. Jan 22 2019
 Wow, a while since the last update! Fortunately things are not broken and in fact are doing quite well with the project I think. First, the bug that was breaking the game was found – it had to do with a fade-in animation breaking Twine, so I asked a friend to help me rewrite that out of there. Second, I sent the now fixed version to a couple of folks last week and got some awesome feedback that in summary mostly said:
